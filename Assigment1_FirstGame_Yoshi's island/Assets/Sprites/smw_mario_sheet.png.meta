@@ -1,0 +1,5708 @@
+fileFormatVersion: 2
+guid: 1a80341c8051c564c982bdb55eccbd2a
+timeCreated: 1520533637
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smw_mario_sheet_0
+    21300002: smw_mario_sheet_1
+    21300004: smw_mario_sheet_2
+    21300006: smw_mario_sheet_3
+    21300008: smw_mario_sheet_4
+    21300010: smw_mario_sheet_5
+    21300012: smw_mario_sheet_6
+    21300014: smw_mario_sheet_7
+    21300016: smw_mario_sheet_8
+    21300018: smw_mario_sheet_9
+    21300020: smw_mario_sheet_10
+    21300022: smw_mario_sheet_11
+    21300024: smw_mario_sheet_12
+    21300026: smw_mario_sheet_13
+    21300028: smw_mario_sheet_14
+    21300030: smw_mario_sheet_15
+    21300032: smw_mario_sheet_16
+    21300034: smw_mario_sheet_17
+    21300036: smw_mario_sheet_18
+    21300038: smw_mario_sheet_19
+    21300040: smw_mario_sheet_20
+    21300042: smw_mario_sheet_21
+    21300044: smw_mario_sheet_22
+    21300046: Mario_Standing
+    21300048: Mario_Death
+    21300050: smw_mario_sheet_25
+    21300052: Mario_Running_1
+    21300054: Mario_Running_0
+    21300056: smw_mario_sheet_28
+    21300058: smw_mario_sheet_29
+    21300060: smw_mario_sheet_30
+    21300062: smw_mario_sheet_31
+    21300064: smw_mario_sheet_32
+    21300066: Mario_Jumping
+    21300068: smw_mario_sheet_34
+    21300070: smw_mario_sheet_35
+    21300072: smw_mario_sheet_36
+    21300074: smw_mario_sheet_37
+    21300076: smw_mario_sheet_38
+    21300078: smw_mario_sheet_39
+    21300080: smw_mario_sheet_40
+    21300082: smw_mario_sheet_41
+    21300084: smw_mario_sheet_42
+    21300086: smw_mario_sheet_43
+    21300088: smw_mario_sheet_44
+    21300090: smw_mario_sheet_45
+    21300092: smw_mario_sheet_46
+    21300094: smw_mario_sheet_47
+    21300096: smw_mario_sheet_48
+    21300098: smw_mario_sheet_49
+    21300100: smw_mario_sheet_50
+    21300102: smw_mario_sheet_51
+    21300104: smw_mario_sheet_52
+    21300106: smw_mario_sheet_53
+    21300108: smw_mario_sheet_54
+    21300110: smw_mario_sheet_55
+    21300112: smw_mario_sheet_56
+    21300114: smw_mario_sheet_57
+    21300116: smw_mario_sheet_58
+    21300118: smw_mario_sheet_59
+    21300120: smw_mario_sheet_60
+    21300122: smw_mario_sheet_61
+    21300124: smw_mario_sheet_62
+    21300126: smw_mario_sheet_63
+    21300128: smw_mario_sheet_64
+    21300130: smw_mario_sheet_65
+    21300132: smw_mario_sheet_66
+    21300134: smw_mario_sheet_67
+    21300136: smw_mario_sheet_68
+    21300138: smw_mario_sheet_69
+    21300140: smw_mario_sheet_70
+    21300142: smw_mario_sheet_71
+    21300144: smw_mario_sheet_72
+    21300146: smw_mario_sheet_73
+    21300148: smw_mario_sheet_74
+    21300150: smw_mario_sheet_75
+    21300152: smw_mario_sheet_76
+    21300154: smw_mario_sheet_77
+    21300156: smw_mario_sheet_78
+    21300158: smw_mario_sheet_79
+    21300160: smw_mario_sheet_80
+    21300162: smw_mario_sheet_81
+    21300164: smw_mario_sheet_82
+    21300166: smw_mario_sheet_83
+    21300168: smw_mario_sheet_84
+    21300170: smw_mario_sheet_85
+    21300172: smw_mario_sheet_86
+    21300174: smw_mario_sheet_87
+    21300176: smw_mario_sheet_88
+    21300178: smw_mario_sheet_89
+    21300180: smw_mario_sheet_90
+    21300182: smw_mario_sheet_91
+    21300184: smw_mario_sheet_92
+    21300186: smw_mario_sheet_93
+    21300188: smw_mario_sheet_94
+    21300190: smw_mario_sheet_95
+    21300192: smw_mario_sheet_96
+    21300194: smw_mario_sheet_97
+    21300196: smw_mario_sheet_98
+    21300198: smw_mario_sheet_99
+    21300200: smw_mario_sheet_100
+    21300202: smw_mario_sheet_101
+    21300204: smw_mario_sheet_102
+    21300206: smw_mario_sheet_103
+    21300208: smw_mario_sheet_104
+    21300210: smw_mario_sheet_105
+    21300212: smw_mario_sheet_106
+    21300214: smw_mario_sheet_107
+    21300216: smw_mario_sheet_108
+    21300218: smw_mario_sheet_109
+    21300220: smw_mario_sheet_110
+    21300222: smw_mario_sheet_111
+    21300224: smw_mario_sheet_112
+    21300226: smw_mario_sheet_113
+    21300228: smw_mario_sheet_114
+    21300230: smw_mario_sheet_115
+    21300232: smw_mario_sheet_116
+    21300234: smw_mario_sheet_117
+    21300236: smw_mario_sheet_118
+    21300238: Power_Up
+    21300240: smw_mario_sheet_120
+    21300242: smw_mario_sheet_121
+    21300244: smw_mario_sheet_122
+    21300246: smw_mario_sheet_123
+    21300248: smw_mario_sheet_124
+    21300250: smw_mario_sheet_125
+    21300252: smw_mario_sheet_126
+    21300254: smw_mario_sheet_127
+    21300256: smw_mario_sheet_128
+    21300258: smw_mario_sheet_129
+    21300260: smw_mario_sheet_130
+    21300262: smw_mario_sheet_131
+    21300264: smw_mario_sheet_132
+    21300266: smw_mario_sheet_133
+    21300268: smw_mario_sheet_134
+    21300270: smw_mario_sheet_135
+    21300272: smw_mario_sheet_136
+    21300274: smw_mario_sheet_137
+    21300276: smw_mario_sheet_138
+    21300278: smw_mario_sheet_139
+    21300280: smw_mario_sheet_140
+    21300282: smw_mario_sheet_141
+    21300284: smw_mario_sheet_142
+    21300286: smw_mario_sheet_143
+    21300288: smw_mario_sheet_144
+    21300290: smw_mario_sheet_145
+    21300292: smw_mario_sheet_146
+    21300294: smw_mario_sheet_147
+    21300296: smw_mario_sheet_148
+    21300298: smw_mario_sheet_149
+    21300300: smw_mario_sheet_150
+    21300302: smw_mario_sheet_151
+    21300304: smw_mario_sheet_152
+    21300306: smw_mario_sheet_153
+    21300308: smw_mario_sheet_154
+    21300310: smw_mario_sheet_155
+    21300312: smw_mario_sheet_156
+    21300314: smw_mario_sheet_157
+    21300316: smw_mario_sheet_158
+    21300318: smw_mario_sheet_159
+    21300320: smw_mario_sheet_160
+    21300322: smw_mario_sheet_161
+    21300324: smw_mario_sheet_162
+    21300326: smw_mario_sheet_163
+    21300328: smw_mario_sheet_164
+    21300330: smw_mario_sheet_165
+    21300332: smw_mario_sheet_166
+    21300334: smw_mario_sheet_167
+    21300336: smw_mario_sheet_168
+    21300338: smw_mario_sheet_169
+    21300340: smw_mario_sheet_170
+    21300342: smw_mario_sheet_171
+    21300344: smw_mario_sheet_172
+    21300346: smw_mario_sheet_173
+    21300348: smw_mario_sheet_174
+    21300350: smw_mario_sheet_175
+    21300352: smw_mario_sheet_176
+    21300354: smw_mario_sheet_177
+    21300356: smw_mario_sheet_178
+    21300358: smw_mario_sheet_179
+    21300360: smw_mario_sheet_180
+    21300362: smw_mario_sheet_181
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smw_mario_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 765
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 765
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 722
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 724
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 727
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 724
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 723
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 723
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 724
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 727
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 724
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 722
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 681
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 680
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mario_Standing
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 680
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mario_Death
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mario_Running_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 682
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mario_Running_0
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 647
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 639
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mario_Jumping
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 639
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 647
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 640
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 600
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 601
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 601
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 601
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 601
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 600
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 561
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 561
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 562
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 562
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 561
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 561
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 520
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 521
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 520
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 518
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 520
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 520
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 518
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 520
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 521
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 520
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 478
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 473
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 475
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 481
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 481
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 475
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 473
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 478
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 483
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 423
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 422
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 421
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 421
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 422
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 423
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 443
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 358
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 358
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 362
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 320
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 281
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 279
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 279
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 281
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 240
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 240
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Power_Up
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 161
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 121
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 75
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 79
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 82
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 79
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_mario_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -70, y: -361}
+      - {x: -79, y: -361}
+      - {x: -84, y: -368}
+      - {x: -84, y: -386}
+      - {x: -83, y: -392}
+      - {x: -68, y: -392}
+      - {x: -64, y: -391}
+      - {x: -64, y: -365}
+    - - {x: -48, y: -361}
+      - {x: -54, y: -365}
+      - {x: -54, y: -390}
+      - {x: -53, y: -392}
+      - {x: -34, y: -392}
+      - {x: -34, y: -366}
+      - {x: -37, y: -361}
+    - - {x: -21, y: -361}
+      - {x: -27, y: -364}
+      - {x: -27, y: -388}
+      - {x: -26, y: -392}
+      - {x: -7, y: -392}
+      - {x: -2, y: -375}
+      - {x: -2, y: -369}
+      - {x: -11, y: -361}
+    - - {x: 8, y: -361}
+      - {x: 6, y: -368}
+      - {x: 6, y: -392}
+      - {x: 26, y: -392}
+      - {x: 26, y: -366}
+      - {x: 23, y: -361}
+    - - {x: 52, y: -361}
+      - {x: 44, y: -361}
+      - {x: 33, y: -370}
+      - {x: 33, y: -374}
+      - {x: 38, y: -392}
+      - {x: 56, y: -392}
+      - {x: 58, y: -391}
+      - {x: 58, y: -364}
+    - - {x: 71, y: -361}
+      - {x: 66, y: -364}
+      - {x: 66, y: -392}
+      - {x: 79, y: -392}
+      - {x: 86, y: -387}
+      - {x: 86, y: -368}
+      - {x: 79, y: -361}
+    - - {x: -170, y: -366}
+      - {x: -173, y: -370}
+      - {x: -174, y: -372}
+      - {x: -174, y: -386}
+      - {x: -172, y: -390}
+      - {x: -158, y: -390}
+      - {x: -154, y: -384}
+      - {x: -154, y: -369}
+      - {x: -160, y: -366}
+    - - {x: -138, y: -366}
+      - {x: -144, y: -369}
+      - {x: -144, y: -387}
+      - {x: -141, y: -390}
+      - {x: -127, y: -390}
+      - {x: -124, y: -389}
+      - {x: -124, y: -369}
+      - {x: -130, y: -366}
+    - - {x: -111, y: -366}
+      - {x: -114, y: -370}
+      - {x: -114, y: -388}
+      - {x: -113, y: -390}
+      - {x: -99, y: -390}
+      - {x: -94, y: -388}
+      - {x: -94, y: -370}
+      - {x: -100, y: -366}
+    - - {x: 101, y: -366}
+      - {x: 96, y: -371}
+      - {x: 96, y: -384}
+      - {x: 102, y: -390}
+      - {x: 114, y: -390}
+      - {x: 115, y: -387}
+      - {x: 115, y: -368}
+      - {x: 110, y: -366}
+    - - {x: 141, y: -366}
+      - {x: 129, y: -366}
+      - {x: 126, y: -371}
+      - {x: 126, y: -385}
+      - {x: 129, y: -390}
+      - {x: 141, y: -390}
+      - {x: 146, y: -386}
+      - {x: 146, y: -370}
+    - - {x: 171, y: -367}
+      - {x: 166, y: -366}
+      - {x: 160, y: -366}
+      - {x: 156, y: -373}
+      - {x: 156, y: -388}
+      - {x: 160, y: -390}
+      - {x: 167, y: -390}
+      - {x: 174, y: -385}
+      - {x: 175, y: -377}
+      - {x: 175, y: -373}
+    - - {x: -84, y: -321}
+      - {x: -84, y: -354}
+      - {x: -66, y: -354}
+      - {x: -64, y: -346}
+      - {x: -64, y: -326}
+      - {x: -67, y: -321}
+    - - {x: -34, y: -323}
+      - {x: -37, y: -321}
+      - {x: -53, y: -321}
+      - {x: -54, y: -325}
+      - {x: -54, y: -353}
+      - {x: -52, y: -354}
+      - {x: -35, y: -354}
+      - {x: -34, y: -353}
+    - - {x: -10, y: -321}
+      - {x: -25, y: -321}
+      - {x: -26, y: -327}
+      - {x: -26, y: -351}
+      - {x: -24, y: -353}
+      - {x: -14, y: -354}
+      - {x: -9, y: -354}
+      - {x: -6, y: -353}
+      - {x: -2, y: -340}
+      - {x: -2, y: -329}
+    - - {x: 10, y: -321}
+      - {x: 6, y: -325}
+      - {x: 6, y: -350}
+      - {x: 7, y: -354}
+      - {x: 26, y: -354}
+      - {x: 26, y: -321}
+    - - {x: 40, y: -321}
+      - {x: 34, y: -327}
+      - {x: 34, y: -343}
+      - {x: 38, y: -354}
+      - {x: 57, y: -354}
+      - {x: 58, y: -347}
+      - {x: 58, y: -322}
+      - {x: 56, y: -321}
+    - - {x: 82, y: -321}
+      - {x: 71, y: -321}
+      - {x: 66, y: -323}
+      - {x: 66, y: -348}
+      - {x: 68, y: -353}
+      - {x: 74, y: -354}
+      - {x: 83, y: -354}
+      - {x: 86, y: -350}
+      - {x: 86, y: -330}
+      - {x: 85, y: -324}
+    - - {x: -171, y: -326}
+      - {x: -174, y: -327}
+      - {x: -174, y: -342}
+      - {x: -172, y: -350}
+      - {x: -154, y: -350}
+      - {x: -154, y: -328}
+      - {x: -157, y: -326}
+    - - {x: -140, y: -326}
+      - {x: -144, y: -333}
+      - {x: -144, y: -339}
+      - {x: -142, y: -348}
+      - {x: -141, y: -350}
+      - {x: -136, y: -350}
+      - {x: -129, y: -349}
+      - {x: -124, y: -344}
+      - {x: -124, y: -335}
+      - {x: -127, y: -326}
+    - - {x: -111, y: -326}
+      - {x: -114, y: -333}
+      - {x: -114, y: -350}
+      - {x: -95, y: -350}
+      - {x: -94, y: -345}
+      - {x: -94, y: -331}
+      - {x: -103, y: -326}
+    - - {x: 101, y: -326}
+      - {x: 96, y: -328}
+      - {x: 96, y: -342}
+      - {x: 102, y: -350}
+      - {x: 115, y: -350}
+      - {x: 115, y: -332}
+      - {x: 111, y: -326}
+    - - {x: 134, y: -326}
+      - {x: 126, y: -333}
+      - {x: 126, y: -337}
+      - {x: 127, y: -345}
+      - {x: 134, y: -350}
+      - {x: 146, y: -350}
+      - {x: 146, y: -330}
+      - {x: 140, y: -326}
+    - - {x: 169, y: -326}
+      - {x: 159, y: -326}
+      - {x: 156, y: -329}
+      - {x: 156, y: -350}
+      - {x: 169, y: -350}
+      - {x: 174, y: -344}
+      - {x: 175, y: -340}
+      - {x: 175, y: -328}
+    - - {x: -144, y: -274}
+      - {x: -149, y: -282}
+      - {x: -149, y: -313}
+      - {x: -142, y: -319}
+      - {x: -135, y: -319}
+      - {x: -129, y: -312}
+      - {x: -129, y: -281}
+      - {x: -135, y: -274}
+    - - {x: 134, y: -274}
+      - {x: 128, y: -278}
+      - {x: 128, y: -313}
+      - {x: 130, y: -319}
+      - {x: 144, y: -319}
+      - {x: 148, y: -317}
+      - {x: 148, y: -275}
+      - {x: 147, y: -274}
+    - - {x: -107, y: -279}
+      - {x: -113, y: -283}
+      - {x: -113, y: -315}
+      - {x: -94, y: -315}
+      - {x: -85, y: -299}
+      - {x: -85, y: -284}
+      - {x: -93, y: -279}
+    - - {x: 90, y: -279}
+      - {x: 84, y: -287}
+      - {x: 84, y: -308}
+      - {x: 98, y: -315}
+      - {x: 112, y: -315}
+      - {x: 112, y: -282}
+      - {x: 104, y: -279}
+    - - {x: -24, y: -281}
+      - {x: -36, y: -289}
+      - {x: -36, y: -302}
+      - {x: -25, y: -313}
+      - {x: -12, y: -313}
+      - {x: -4, y: -306}
+      - {x: -4, y: -288}
+      - {x: -6, y: -281}
+    - - {x: 7, y: -281}
+      - {x: 3, y: -285}
+      - {x: 3, y: -301}
+      - {x: 7, y: -311}
+      - {x: 13, y: -313}
+      - {x: 25, y: -313}
+      - {x: 35, y: -302}
+      - {x: 35, y: -286}
+      - {x: 25, y: -281}
+    - - {x: -68, y: -282}
+      - {x: -74, y: -286}
+      - {x: -75, y: -291}
+      - {x: -75, y: -311}
+      - {x: -70, y: -312}
+      - {x: -50, y: -312}
+      - {x: -44, y: -308}
+      - {x: -44, y: -286}
+      - {x: -53, y: -282}
+    - - {x: 43, y: -297}
+      - {x: 43, y: -304}
+      - {x: 48, y: -312}
+      - {x: 71, y: -312}
+      - {x: 74, y: -311}
+      - {x: 74, y: -288}
+      - {x: 73, y: -286}
+      - {x: 64, y: -282}
+      - {x: 51, y: -282}
+      - {x: 45, y: -288}
+    - - {x: -64, y: -242}
+      - {x: -76, y: -250}
+      - {x: -76, y: -267}
+      - {x: -72, y: -274}
+      - {x: -46, y: -274}
+      - {x: -46, y: -242}
+    - - {x: -22, y: -242}
+      - {x: -32, y: -242}
+      - {x: -36, y: -246}
+      - {x: -36, y: -267}
+      - {x: -34, y: -274}
+      - {x: -17, y: -274}
+      - {x: -6, y: -264}
+      - {x: -6, y: -255}
+      - {x: -8, y: -248}
+    - - {x: 17, y: -242}
+      - {x: 5, y: -249}
+      - {x: 5, y: -267}
+      - {x: 10, y: -274}
+      - {x: 34, y: -274}
+      - {x: 35, y: -272}
+      - {x: 35, y: -244}
+      - {x: 29, y: -242}
+    - - {x: 45, y: -274}
+      - {x: 68, y: -274}
+      - {x: 75, y: -271}
+      - {x: 75, y: -253}
+      - {x: 67, y: -242}
+      - {x: 48, y: -242}
+      - {x: 45, y: -248}
+    - - {x: -189, y: -242}
+      - {x: -195, y: -245}
+      - {x: -195, y: -268}
+      - {x: -193, y: -273}
+      - {x: -174, y: -273}
+      - {x: -165, y: -263}
+      - {x: -165, y: -255}
+      - {x: -179, y: -242}
+    - - {x: 180, y: -242}
+      - {x: 169, y: -252}
+      - {x: 164, y: -257}
+      - {x: 164, y: -263}
+      - {x: 173, y: -273}
+      - {x: 194, y: -273}
+      - {x: 194, y: -243}
+      - {x: 192, y: -242}
+    - - {x: -150, y: -242}
+      - {x: -155, y: -245}
+      - {x: -155, y: -264}
+      - {x: -149, y: -272}
+      - {x: -128, y: -272}
+      - {x: -125, y: -261}
+      - {x: -125, y: -246}
+      - {x: -135, y: -242}
+    - - {x: -102, y: -242}
+      - {x: -113, y: -242}
+      - {x: -115, y: -248}
+      - {x: -115, y: -264}
+      - {x: -109, y: -272}
+      - {x: -93, y: -272}
+      - {x: -85, y: -262}
+      - {x: -85, y: -257}
+      - {x: -86, y: -248}
+    - - {x: 94, y: -242}
+      - {x: 84, y: -252}
+      - {x: 84, y: -262}
+      - {x: 89, y: -272}
+      - {x: 105, y: -272}
+      - {x: 114, y: -269}
+      - {x: 114, y: -244}
+      - {x: 109, y: -242}
+    - - {x: 136, y: -242}
+      - {x: 124, y: -249}
+      - {x: 124, y: -262}
+      - {x: 132, y: -272}
+      - {x: 149, y: -272}
+      - {x: 154, y: -264}
+      - {x: 154, y: -245}
+      - {x: 149, y: -242}
+    - - {x: -155, y: -234}
+      - {x: -136, y: -234}
+      - {x: -125, y: -227}
+      - {x: -125, y: -215}
+      - {x: -140, y: -202}
+      - {x: -149, y: -202}
+      - {x: -155, y: -205}
+    - - {x: -36, y: -202}
+      - {x: -36, y: -232}
+      - {x: -31, y: -234}
+      - {x: -15, y: -234}
+      - {x: -6, y: -223}
+      - {x: -6, y: -202}
+    - - {x: 14, y: -202}
+      - {x: 6, y: -206}
+      - {x: 5, y: -207}
+      - {x: 5, y: -225}
+      - {x: 13, y: -233}
+      - {x: 16, y: -234}
+      - {x: 34, y: -234}
+      - {x: 35, y: -233}
+      - {x: 35, y: -206}
+      - {x: 29, y: -202}
+    - - {x: 135, y: -202}
+      - {x: 124, y: -214}
+      - {x: 124, y: -228}
+      - {x: 134, y: -234}
+      - {x: 154, y: -234}
+      - {x: 154, y: -204}
+      - {x: 149, y: -202}
+    - - {x: -179, y: -201}
+      - {x: -190, y: -201}
+      - {x: -195, y: -203}
+      - {x: -195, y: -223}
+      - {x: -193, y: -233}
+      - {x: -178, y: -233}
+      - {x: -169, y: -227}
+      - {x: -165, y: -220}
+      - {x: -165, y: -213}
+    - - {x: -99, y: -202}
+      - {x: -109, y: -202}
+      - {x: -115, y: -205}
+      - {x: -115, y: -228}
+      - {x: -113, y: -233}
+      - {x: -95, y: -233}
+      - {x: -85, y: -224}
+      - {x: -85, y: -217}
+      - {x: -86, y: -215}
+    - - {x: -70, y: -202}
+      - {x: -75, y: -207}
+      - {x: -75, y: -233}
+      - {x: -48, y: -233}
+      - {x: -45, y: -229}
+      - {x: -45, y: -217}
+      - {x: -61, y: -202}
+    - - {x: 58, y: -202}
+      - {x: 47, y: -210}
+      - {x: 44, y: -217}
+      - {x: 44, y: -232}
+      - {x: 50, y: -233}
+      - {x: 74, y: -233}
+      - {x: 74, y: -206}
+      - {x: 68, y: -202}
+    - - {x: 101, y: -202}
+      - {x: 84, y: -217}
+      - {x: 84, y: -221}
+      - {x: 95, y: -233}
+      - {x: 111, y: -233}
+      - {x: 114, y: -232}
+      - {x: 114, y: -207}
+      - {x: 113, y: -202}
+    - - {x: 178, y: -201}
+      - {x: 164, y: -214}
+      - {x: 164, y: -220}
+      - {x: 167, y: -227}
+      - {x: 177, y: -233}
+      - {x: 189, y: -233}
+      - {x: 192, y: -232}
+      - {x: 194, y: -221}
+      - {x: 194, y: -204}
+      - {x: 188, y: -201}
+    - - {x: -195, y: -162}
+      - {x: -195, y: -194}
+      - {x: -165, y: -194}
+      - {x: -165, y: -173}
+      - {x: -181, y: -162}
+    - - {x: -110, y: -162}
+      - {x: -116, y: -165}
+      - {x: -116, y: -193}
+      - {x: -111, y: -194}
+      - {x: -96, y: -194}
+      - {x: -86, y: -183}
+      - {x: -86, y: -175}
+      - {x: -100, y: -162}
+    - - {x: -35, y: -194}
+      - {x: -10, y: -194}
+      - {x: -5, y: -191}
+      - {x: -5, y: -168}
+      - {x: -21, y: -162}
+      - {x: -33, y: -162}
+      - {x: -35, y: -166}
+    - - {x: 21, y: -162}
+      - {x: 4, y: -171}
+      - {x: 4, y: -184}
+      - {x: 13, y: -194}
+      - {x: 32, y: -194}
+      - {x: 34, y: -193}
+      - {x: 34, y: -164}
+      - {x: 33, y: -162}
+    - - {x: 99, y: -162}
+      - {x: 94, y: -167}
+      - {x: 85, y: -178}
+      - {x: 85, y: -187}
+      - {x: 92, y: -194}
+      - {x: 113, y: -194}
+      - {x: 115, y: -193}
+      - {x: 115, y: -165}
+      - {x: 110, y: -162}
+    - - {x: 180, y: -162}
+      - {x: 164, y: -172}
+      - {x: 164, y: -189}
+      - {x: 177, y: -194}
+      - {x: 193, y: -194}
+      - {x: 194, y: -187}
+      - {x: 194, y: -162}
+    - - {x: -151, y: -162}
+      - {x: -156, y: -165}
+      - {x: -156, y: -191}
+      - {x: -152, y: -193}
+      - {x: -132, y: -193}
+      - {x: -126, y: -183}
+      - {x: -126, y: -174}
+      - {x: -140, y: -162}
+    - - {x: -60, y: -162}
+      - {x: -70, y: -162}
+      - {x: -76, y: -165}
+      - {x: -76, y: -188}
+      - {x: -72, y: -192}
+      - {x: -68, y: -193}
+      - {x: -55, y: -193}
+      - {x: -46, y: -185}
+      - {x: -46, y: -177}
+      - {x: -50, y: -171}
+    - - {x: 60, y: -162}
+      - {x: 49, y: -171}
+      - {x: 45, y: -177}
+      - {x: 45, y: -184}
+      - {x: 56, y: -193}
+      - {x: 72, y: -193}
+      - {x: 75, y: -189}
+      - {x: 75, y: -165}
+      - {x: 69, y: -162}
+    - - {x: 140, y: -162}
+      - {x: 125, y: -172}
+      - {x: 125, y: -178}
+      - {x: 133, y: -193}
+      - {x: 149, y: -193}
+      - {x: 155, y: -191}
+      - {x: 155, y: -167}
+      - {x: 151, y: -162}
+    - - {x: -184, y: -122}
+      - {x: -189, y: -126}
+      - {x: -190, y: -133}
+      - {x: -190, y: -154}
+      - {x: -170, y: -154}
+      - {x: -170, y: -127}
+      - {x: -172, y: -122}
+    - - {x: -138, y: -122}
+      - {x: -151, y: -122}
+      - {x: -155, y: -125}
+      - {x: -155, y: -153}
+      - {x: -152, y: -154}
+      - {x: -139, y: -154}
+      - {x: -127, y: -141}
+      - {x: -127, y: -131}
+      - {x: -130, y: -127}
+    - - {x: -90, y: -131}
+      - {x: -99, y: -122}
+      - {x: -110, y: -122}
+      - {x: -115, y: -125}
+      - {x: -115, y: -153}
+      - {x: -112, y: -154}
+      - {x: -100, y: -154}
+      - {x: -99, y: -153}
+      - {x: -86, y: -144}
+      - {x: -86, y: -137}
+    - - {x: -75, y: -122}
+      - {x: -75, y: -153}
+      - {x: -72, y: -154}
+      - {x: -56, y: -154}
+      - {x: -46, y: -149}
+      - {x: -46, y: -131}
+      - {x: -62, y: -122}
+    - - {x: -29, y: -122}
+      - {x: -31, y: -125}
+      - {x: -31, y: -154}
+      - {x: -10, y: -154}
+      - {x: -10, y: -125}
+      - {x: -19, y: -122}
+    - - {x: 16, y: -122}
+      - {x: 11, y: -128}
+      - {x: 9, y: -140}
+      - {x: 9, y: -154}
+      - {x: 28, y: -154}
+      - {x: 30, y: -143}
+      - {x: 30, y: -125}
+      - {x: 25, y: -122}
+    - - {x: 61, y: -122}
+      - {x: 45, y: -131}
+      - {x: 45, y: -148}
+      - {x: 59, y: -154}
+      - {x: 72, y: -154}
+      - {x: 74, y: -144}
+      - {x: 74, y: -122}
+    - - {x: 98, y: -122}
+      - {x: 85, y: -127}
+      - {x: 85, y: -144}
+      - {x: 100, y: -154}
+      - {x: 112, y: -154}
+      - {x: 114, y: -147}
+      - {x: 114, y: -122}
+    - - {x: 141, y: -122}
+      - {x: 128, y: -127}
+      - {x: 126, y: -131}
+      - {x: 126, y: -141}
+      - {x: 138, y: -154}
+      - {x: 150, y: -154}
+      - {x: 154, y: -153}
+      - {x: 154, y: -127}
+      - {x: 149, y: -122}
+    - - {x: 170, y: -122}
+      - {x: 170, y: -154}
+      - {x: 190, y: -154}
+      - {x: 190, y: -127}
+      - {x: 186, y: -122}
+    - - {x: -30, y: -80}
+      - {x: -30, y: -115}
+      - {x: -13, y: -115}
+      - {x: -10, y: -113}
+      - {x: -10, y: -89}
+      - {x: -20, y: -80}
+    - - {x: 19, y: -80}
+      - {x: 10, y: -86}
+      - {x: 10, y: -112}
+      - {x: 12, y: -115}
+      - {x: 28, y: -115}
+      - {x: 30, y: -114}
+      - {x: 30, y: -80}
+    - - {x: -183, y: -81}
+      - {x: -190, y: -84}
+      - {x: -190, y: -104}
+      - {x: -181, y: -114}
+      - {x: -174, y: -114}
+      - {x: -171, y: -113}
+      - {x: -170, y: -105}
+      - {x: -170, y: -88}
+      - {x: -174, y: -81}
+    - - {x: -63, y: -81}
+      - {x: -70, y: -84}
+      - {x: -70, y: -114}
+      - {x: -50, y: -114}
+      - {x: -50, y: -85}
+      - {x: -53, y: -81}
+    - - {x: 53, y: -81}
+      - {x: 50, y: -84}
+      - {x: 50, y: -114}
+      - {x: 67, y: -114}
+      - {x: 70, y: -113}
+      - {x: 70, y: -84}
+      - {x: 63, y: -81}
+    - - {x: 176, y: -81}
+      - {x: 170, y: -89}
+      - {x: 170, y: -108}
+      - {x: 171, y: -113}
+      - {x: 173, y: -114}
+      - {x: 181, y: -114}
+      - {x: 190, y: -101}
+      - {x: 190, y: -91}
+      - {x: 186, y: -81}
+    - - {x: -146, y: -82}
+      - {x: -149, y: -87}
+      - {x: -149, y: -105}
+      - {x: -146, y: -113}
+      - {x: -131, y: -113}
+      - {x: -130, y: -107}
+      - {x: -130, y: -85}
+      - {x: -134, y: -82}
+    - - {x: 136, y: -82}
+      - {x: 130, y: -84}
+      - {x: 130, y: -113}
+      - {x: 144, y: -113}
+      - {x: 147, y: -112}
+      - {x: 149, y: -104}
+      - {x: 149, y: -87}
+      - {x: 147, y: -82}
+    - - {x: -95, y: -88}
+      - {x: -105, y: -88}
+      - {x: -110, y: -93}
+      - {x: -110, y: -99}
+      - {x: -109, y: -107}
+      - {x: -91, y: -107}
+      - {x: -90, y: -106}
+      - {x: -90, y: -97}
+      - {x: -91, y: -92}
+    - - {x: 95, y: -88}
+      - {x: 90, y: -93}
+      - {x: 90, y: -103}
+      - {x: 91, y: -107}
+      - {x: 107, y: -107}
+      - {x: 110, y: -104}
+      - {x: 110, y: -93}
+      - {x: 107, y: -88}
+    - - {x: -184, y: -42}
+      - {x: -190, y: -46}
+      - {x: -190, y: -71}
+      - {x: -188, y: -74}
+      - {x: -175, y: -74}
+      - {x: -170, y: -73}
+      - {x: -170, y: -48}
+      - {x: -174, y: -42}
+    - - {x: -93, y: -42}
+      - {x: -104, y: -42}
+      - {x: -110, y: -48}
+      - {x: -110, y: -73}
+      - {x: -108, y: -74}
+      - {x: -92, y: -74}
+      - {x: -91, y: -73}
+      - {x: -90, y: -71}
+      - {x: -90, y: -48}
+    - - {x: -65, y: -42}
+      - {x: -70, y: -47}
+      - {x: -70, y: -68}
+      - {x: -69, y: -73}
+      - {x: -68, y: -74}
+      - {x: -50, y: -74}
+      - {x: -50, y: -44}
+      - {x: -56, y: -42}
+    - - {x: -24, y: -42}
+      - {x: -29, y: -44}
+      - {x: -29, y: -73}
+      - {x: -27, y: -74}
+      - {x: -12, y: -74}
+      - {x: -10, y: -66}
+      - {x: -10, y: -44}
+      - {x: -13, y: -42}
+    - - {x: 27, y: -42}
+      - {x: 16, y: -42}
+      - {x: 10, y: -44}
+      - {x: 10, y: -66}
+      - {x: 12, y: -74}
+      - {x: 25, y: -74}
+      - {x: 28, y: -73}
+      - {x: 29, y: -62}
+      - {x: 29, y: -45}
+    - - {x: 64, y: -42}
+      - {x: 54, y: -42}
+      - {x: 50, y: -46}
+      - {x: 50, y: -67}
+      - {x: 52, y: -74}
+      - {x: 67, y: -74}
+      - {x: 68, y: -72}
+      - {x: 70, y: -62}
+      - {x: 70, y: -45}
+    - - {x: 93, y: -42}
+      - {x: 90, y: -48}
+      - {x: 90, y: -70}
+      - {x: 92, y: -74}
+      - {x: 110, y: -74}
+      - {x: 110, y: -43}
+      - {x: 108, y: -42}
+    - - {x: 175, y: -42}
+      - {x: 170, y: -47}
+      - {x: 170, y: -71}
+      - {x: 174, y: -74}
+      - {x: 187, y: -74}
+      - {x: 190, y: -72}
+      - {x: 190, y: -45}
+      - {x: 184, y: -42}
+    - - {x: -145, y: -42}
+      - {x: -150, y: -45}
+      - {x: -150, y: -72}
+      - {x: -146, y: -73}
+      - {x: -130, y: -73}
+      - {x: -130, y: -48}
+      - {x: -135, y: -42}
+    - - {x: 138, y: -42}
+      - {x: 130, y: -48}
+      - {x: 130, y: -73}
+      - {x: 150, y: -73}
+      - {x: 150, y: -44}
+      - {x: 144, y: -42}
+    - - {x: -30, y: 21}
+      - {x: -30, y: -33}
+      - {x: -29, y: -36}
+      - {x: -12, y: -36}
+      - {x: -10, y: -27}
+      - {x: -10, y: 21}
+    - - {x: 10, y: 21}
+      - {x: 10, y: -36}
+      - {x: 29, y: -36}
+      - {x: 30, y: -33}
+      - {x: 30, y: 21}
+    - - {x: -70, y: 17}
+      - {x: -70, y: -32}
+      - {x: -49, y: -32}
+      - {x: -49, y: 17}
+    - - {x: 49, y: 17}
+      - {x: 49, y: -32}
+      - {x: 70, y: -32}
+      - {x: 70, y: 15}
+      - {x: 69, y: 17}
+    - - {x: -30, y: 78}
+      - {x: -53, y: 58}
+      - {x: -53, y: 31}
+      - {x: -52, y: 27}
+      - {x: -35, y: 27}
+      - {x: -6, y: 57}
+      - {x: -6, y: 76}
+      - {x: -10, y: 78}
+    - - {x: 23, y: 78}
+      - {x: 6, y: 78}
+      - {x: 6, y: 58}
+      - {x: 21, y: 58}
+      - {x: 23, y: 60}
+      - {x: 34, y: 27}
+      - {x: 49, y: 27}
+      - {x: 53, y: 32}
+      - {x: 53, y: 55}
+      - {x: 49, y: 66}
+    - - {x: -74, y: 28}
+      - {x: -56, y: 42}
+      - {x: -56, y: 77}
+      - {x: -71, y: 77}
+      - {x: -103, y: 61}
+      - {x: -103, y: 28}
+    - - {x: 72, y: 77}
+      - {x: 57, y: 77}
+      - {x: 56, y: 73}
+      - {x: 56, y: 51}
+      - {x: 74, y: 30}
+      - {x: 78, y: 28}
+      - {x: 99, y: 28}
+      - {x: 103, y: 34}
+      - {x: 103, y: 49}
+      - {x: 93, y: 62}
+    - - {x: -110, y: 75}
+      - {x: -127, y: 75}
+      - {x: -152, y: 55}
+      - {x: -153, y: 51}
+      - {x: -153, y: 37}
+      - {x: -149, y: 29}
+      - {x: -126, y: 29}
+      - {x: -106, y: 55}
+      - {x: -106, y: 71}
+    - - {x: 110, y: 75}
+      - {x: 106, y: 73}
+      - {x: 106, y: 57}
+      - {x: 107, y: 53}
+      - {x: 121, y: 55}
+      - {x: 123, y: 57}
+      - {x: 131, y: 32}
+      - {x: 133, y: 29}
+      - {x: 148, y: 29}
+      - {x: 153, y: 36}
+      - {x: 153, y: 57}
+      - {x: 122, y: 75}
+    - - {x: -170, y: 76}
+      - {x: -178, y: 76}
+      - {x: -190, y: 71}
+      - {x: -196, y: 62}
+      - {x: -196, y: 54}
+      - {x: -190, y: 49}
+      - {x: -176, y: 49}
+      - {x: -169, y: 50}
+      - {x: -163, y: 55}
+      - {x: -163, y: 63}
+      - {x: -166, y: 72}
+    - - {x: 182, y: 76}
+      - {x: 171, y: 76}
+      - {x: 164, y: 74}
+      - {x: 163, y: 66}
+      - {x: 163, y: 54}
+      - {x: 166, y: 49}
+      - {x: 195, y: 49}
+      - {x: 196, y: 52}
+      - {x: 196, y: 64}
+    - - {x: -93, y: 125}
+      - {x: -105, y: 125}
+      - {x: -109, y: 123}
+      - {x: -109, y: 79}
+      - {x: -91, y: 79}
+      - {x: -90, y: 80}
+      - {x: -90, y: 124}
+    - - {x: 103, y: 125}
+      - {x: 90, y: 125}
+      - {x: 90, y: 79}
+      - {x: 108, y: 79}
+      - {x: 109, y: 80}
+      - {x: 109, y: 122}
+    - - {x: -51, y: 123}
+      - {x: -59, y: 123}
+      - {x: -75, y: 109}
+      - {x: -75, y: 82}
+      - {x: -74, y: 81}
+      - {x: -60, y: 81}
+      - {x: -57, y: 82}
+      - {x: -44, y: 110}
+      - {x: -44, y: 117}
+    - - {x: 48, y: 123}
+      - {x: 44, y: 117}
+      - {x: 44, y: 104}
+      - {x: 58, y: 81}
+      - {x: 75, y: 81}
+      - {x: 75, y: 111}
+      - {x: 58, y: 123}
+    - - {x: -142, y: 121}
+      - {x: -147, y: 121}
+      - {x: -156, y: 117}
+      - {x: -156, y: 107}
+      - {x: -144, y: 84}
+      - {x: -129, y: 84}
+      - {x: -126, y: 85}
+      - {x: -123, y: 89}
+      - {x: -123, y: 95}
+      - {x: -125, y: 107}
+    - - {x: 123, y: 88}
+      - {x: 125, y: 84}
+      - {x: 144, y: 84}
+      - {x: 156, y: 97}
+      - {x: 156, y: 117}
+      - {x: 152, y: 121}
+      - {x: 141, y: 121}
+      - {x: 123, y: 102}
+    - - {x: -10, y: 117}
+      - {x: -35, y: 117}
+      - {x: -38, y: 112}
+      - {x: -38, y: 87}
+      - {x: -6, y: 87}
+      - {x: -2, y: 90}
+      - {x: -2, y: 112}
+      - {x: -5, y: 116}
+    - - {x: 2, y: 94}
+      - {x: 9, y: 87}
+      - {x: 37, y: 87}
+      - {x: 38, y: 88}
+      - {x: 38, y: 113}
+      - {x: 35, y: 117}
+      - {x: 13, y: 117}
+      - {x: 2, y: 115}
+    - - {x: -173, y: 116}
+      - {x: -196, y: 116}
+      - {x: -196, y: 95}
+      - {x: -188, y: 89}
+      - {x: -167, y: 89}
+      - {x: -162, y: 94}
+      - {x: -162, y: 113}
+    - - {x: 172, y: 116}
+      - {x: 164, y: 112}
+      - {x: 162, y: 102}
+      - {x: 162, y: 94}
+      - {x: 165, y: 89}
+      - {x: 182, y: 89}
+      - {x: 196, y: 99}
+      - {x: 196, y: 116}
+    - - {x: -59, y: 160}
+      - {x: -68, y: 158}
+      - {x: -72, y: 151}
+      - {x: -72, y: 125}
+      - {x: -70, y: 124}
+      - {x: -52, y: 124}
+      - {x: -47, y: 137}
+      - {x: -47, y: 156}
+      - {x: -50, y: 160}
+    - - {x: 64, y: 160}
+      - {x: 54, y: 160}
+      - {x: 48, y: 155}
+      - {x: 47, y: 151}
+      - {x: 47, y: 144}
+      - {x: 48, y: 137}
+      - {x: 54, y: 124}
+      - {x: 72, y: 124}
+      - {x: 72, y: 146}
+      - {x: 69, y: 159}
+    - - {x: -187, y: 159}
+      - {x: -190, y: 155}
+      - {x: -190, y: 126}
+      - {x: -170, y: 126}
+      - {x: -170, y: 157}
+      - {x: -175, y: 159}
+    - - {x: -111, y: 159}
+      - {x: -113, y: 151}
+      - {x: -113, y: 129}
+      - {x: -110, y: 126}
+      - {x: -92, y: 126}
+      - {x: -87, y: 138}
+      - {x: -87, y: 150}
+      - {x: -94, y: 159}
+    - - {x: -30, y: 159}
+      - {x: -32, y: 154}
+      - {x: -32, y: 127}
+      - {x: -30, y: 126}
+      - {x: -15, y: 126}
+      - {x: -8, y: 141}
+      - {x: -8, y: 155}
+      - {x: -12, y: 159}
+    - - {x: 11, y: 159}
+      - {x: 8, y: 153}
+      - {x: 8, y: 141}
+      - {x: 16, y: 126}
+      - {x: 32, y: 126}
+      - {x: 32, y: 156}
+      - {x: 25, y: 159}
+    - - {x: 88, y: 159}
+      - {x: 87, y: 158}
+      - {x: 87, y: 134}
+      - {x: 88, y: 126}
+      - {x: 110, y: 126}
+      - {x: 113, y: 130}
+      - {x: 113, y: 155}
+      - {x: 106, y: 159}
+    - - {x: 174, y: 159}
+      - {x: 170, y: 155}
+      - {x: 170, y: 126}
+      - {x: 190, y: 126}
+      - {x: 190, y: 153}
+      - {x: 185, y: 159}
+    - - {x: -145, y: 157}
+      - {x: -151, y: 157}
+      - {x: -158, y: 153}
+      - {x: -158, y: 127}
+      - {x: -123, y: 127}
+      - {x: -122, y: 129}
+      - {x: -122, y: 139}
+      - {x: -130, y: 150}
+    - - {x: 142, y: 157}
+      - {x: 130, y: 149}
+      - {x: 122, y: 139}
+      - {x: 122, y: 133}
+      - {x: 127, y: 127}
+      - {x: 158, y: 127}
+      - {x: 158, y: 156}
+      - {x: 155, y: 157}
+    - - {x: -148, y: 198}
+      - {x: -150, y: 194}
+      - {x: -150, y: 172}
+      - {x: -147, y: 166}
+      - {x: -132, y: 166}
+      - {x: -130, y: 173}
+      - {x: -130, y: 196}
+      - {x: -135, y: 198}
+    - - {x: -104, y: 198}
+      - {x: -110, y: 196}
+      - {x: -110, y: 169}
+      - {x: -109, y: 166}
+      - {x: -93, y: 166}
+      - {x: -90, y: 175}
+      - {x: -90, y: 194}
+      - {x: -92, y: 198}
+    - - {x: 94, y: 198}
+      - {x: 90, y: 195}
+      - {x: 90, y: 181}
+      - {x: 92, y: 167}
+      - {x: 93, y: 166}
+      - {x: 105, y: 166}
+      - {x: 109, y: 167}
+      - {x: 110, y: 179}
+      - {x: 110, y: 192}
+      - {x: 104, y: 198}
+    - - {x: 133, y: 198}
+      - {x: 130, y: 196}
+      - {x: 130, y: 176}
+      - {x: 132, y: 166}
+      - {x: 147, y: 166}
+      - {x: 150, y: 178}
+      - {x: 150, y: 195}
+      - {x: 143, y: 198}
+    - - {x: -183, y: 198}
+      - {x: -190, y: 196}
+      - {x: -190, y: 171}
+      - {x: -189, y: 167}
+      - {x: -169, y: 167}
+      - {x: -169, y: 192}
+      - {x: -176, y: 198}
+    - - {x: -66, y: 198}
+      - {x: -69, y: 193}
+      - {x: -69, y: 175}
+      - {x: -66, y: 167}
+      - {x: -51, y: 167}
+      - {x: -50, y: 173}
+      - {x: -50, y: 195}
+      - {x: -54, y: 198}
+    - - {x: 65, y: 198}
+      - {x: 56, y: 198}
+      - {x: 50, y: 195}
+      - {x: 50, y: 172}
+      - {x: 51, y: 167}
+      - {x: 64, y: 167}
+      - {x: 66, y: 169}
+      - {x: 69, y: 178}
+      - {x: 69, y: 191}
+    - - {x: 175, y: 198}
+      - {x: 169, y: 194}
+      - {x: 169, y: 167}
+      - {x: 190, y: 167}
+      - {x: 190, y: 197}
+      - {x: 187, y: 198}
+    - - {x: -15, y: 197}
+      - {x: -25, y: 197}
+      - {x: -30, y: 194}
+      - {x: -30, y: 172}
+      - {x: -29, y: 168}
+      - {x: -13, y: 168}
+      - {x: -11, y: 174}
+      - {x: -10, y: 185}
+      - {x: -10, y: 192}
+    - - {x: 15, y: 197}
+      - {x: 10, y: 191}
+      - {x: 10, y: 173}
+      - {x: 16, y: 168}
+      - {x: 23, y: 168}
+      - {x: 28, y: 169}
+      - {x: 30, y: 171}
+      - {x: 30, y: 194}
+      - {x: 24, y: 197}
+    - - {x: -184, y: 238}
+      - {x: -190, y: 235}
+      - {x: -190, y: 212}
+      - {x: -185, y: 206}
+      - {x: -172, y: 206}
+      - {x: -170, y: 213}
+      - {x: -170, y: 234}
+      - {x: -174, y: 238}
+    - - {x: -105, y: 238}
+      - {x: -111, y: 235}
+      - {x: -111, y: 207}
+      - {x: -109, y: 206}
+      - {x: -90, y: 206}
+      - {x: -89, y: 207}
+      - {x: -89, y: 229}
+      - {x: -96, y: 238}
+    - - {x: -28, y: 238}
+      - {x: -31, y: 236}
+      - {x: -31, y: 217}
+      - {x: -29, y: 206}
+      - {x: -15, y: 206}
+      - {x: -9, y: 213}
+      - {x: -9, y: 227}
+      - {x: -15, y: 238}
+    - - {x: 12, y: 238}
+      - {x: 9, y: 237}
+      - {x: 9, y: 206}
+      - {x: 29, y: 206}
+      - {x: 31, y: 215}
+      - {x: 31, y: 237}
+      - {x: 28, y: 238}
+    - - {x: 94, y: 238}
+      - {x: 89, y: 235}
+      - {x: 89, y: 206}
+      - {x: 109, y: 206}
+      - {x: 111, y: 208}
+      - {x: 111, y: 235}
+      - {x: 105, y: 238}
+    - - {x: 176, y: 238}
+      - {x: 170, y: 232}
+      - {x: 170, y: 214}
+      - {x: 176, y: 206}
+      - {x: 186, y: 206}
+      - {x: 190, y: 209}
+      - {x: 190, y: 236}
+      - {x: 184, y: 238}
+    - - {x: -149, y: 237}
+      - {x: -151, y: 236}
+      - {x: -151, y: 210}
+      - {x: -142, y: 207}
+      - {x: -128, y: 207}
+      - {x: -128, y: 226}
+      - {x: -134, y: 237}
+    - - {x: -65, y: 238}
+      - {x: -71, y: 234}
+      - {x: -71, y: 209}
+      - {x: -70, y: 207}
+      - {x: -49, y: 207}
+      - {x: -49, y: 229}
+      - {x: -55, y: 238}
+    - - {x: 58, y: 238}
+      - {x: 49, y: 235}
+      - {x: 49, y: 216}
+      - {x: 52, y: 207}
+      - {x: 71, y: 207}
+      - {x: 71, y: 238}
+    - - {x: 135, y: 237}
+      - {x: 129, y: 232}
+      - {x: 128, y: 221}
+      - {x: 128, y: 207}
+      - {x: 142, y: 207}
+      - {x: 151, y: 210}
+      - {x: 151, y: 234}
+      - {x: 145, y: 237}
+    - - {x: -26, y: 280}
+      - {x: -30, y: 277}
+      - {x: -30, y: 249}
+      - {x: -26, y: 246}
+      - {x: -24, y: 245}
+      - {x: -10, y: 245}
+      - {x: -10, y: 275}
+      - {x: -20, y: 280}
+    - - {x: 19, y: 280}
+      - {x: 10, y: 270}
+      - {x: 10, y: 245}
+      - {x: 27, y: 245}
+      - {x: 30, y: 248}
+      - {x: 30, y: 280}
+    - - {x: -183, y: 279}
+      - {x: -187, y: 278}
+      - {x: -189, y: 274}
+      - {x: -190, y: 263}
+      - {x: -190, y: 258}
+      - {x: -181, y: 246}
+      - {x: -173, y: 246}
+      - {x: -171, y: 247}
+      - {x: -170, y: 253}
+      - {x: -170, y: 271}
+      - {x: -175, y: 279}
+    - - {x: -144, y: 278}
+      - {x: -150, y: 274}
+      - {x: -150, y: 246}
+      - {x: -130, y: 246}
+      - {x: -130, y: 276}
+      - {x: -132, y: 278}
+    - - {x: -66, y: 279}
+      - {x: -70, y: 275}
+      - {x: -70, y: 247}
+      - {x: -66, y: 246}
+      - {x: -50, y: 246}
+      - {x: -50, y: 276}
+      - {x: -56, y: 279}
+    - - {x: 53, y: 279}
+      - {x: 50, y: 276}
+      - {x: 50, y: 246}
+      - {x: 67, y: 246}
+      - {x: 70, y: 247}
+      - {x: 70, y: 276}
+      - {x: 63, y: 279}
+    - - {x: 135, y: 278}
+      - {x: 130, y: 277}
+      - {x: 130, y: 246}
+      - {x: 150, y: 246}
+      - {x: 150, y: 277}
+      - {x: 148, y: 278}
+    - - {x: 176, y: 279}
+      - {x: 170, y: 271}
+      - {x: 170, y: 252}
+      - {x: 171, y: 247}
+      - {x: 173, y: 246}
+      - {x: 181, y: 246}
+      - {x: 190, y: 252}
+      - {x: 190, y: 272}
+      - {x: 187, y: 279}
+    - - {x: -94, y: 272}
+      - {x: -105, y: 272}
+      - {x: -110, y: 269}
+      - {x: -110, y: 259}
+      - {x: -106, y: 253}
+      - {x: -94, y: 253}
+      - {x: -90, y: 257}
+      - {x: -90, y: 265}
+    - - {x: 106, y: 272}
+      - {x: 96, y: 272}
+      - {x: 90, y: 270}
+      - {x: 90, y: 255}
+      - {x: 94, y: 253}
+      - {x: 106, y: 253}
+      - {x: 110, y: 259}
+      - {x: 110, y: 267}
+    - - {x: -186, y: 318}
+      - {x: -190, y: 311}
+      - {x: -190, y: 290}
+      - {x: -188, y: 286}
+      - {x: -174, y: 286}
+      - {x: -170, y: 287}
+      - {x: -170, y: 311}
+      - {x: -175, y: 318}
+    - - {x: -106, y: 318}
+      - {x: -110, y: 315}
+      - {x: -110, y: 293}
+      - {x: -107, y: 286}
+      - {x: -90, y: 286}
+      - {x: -90, y: 318}
+    - - {x: -70, y: 318}
+      - {x: -70, y: 286}
+      - {x: -50, y: 286}
+      - {x: -50, y: 315}
+      - {x: -56, y: 318}
+    - - {x: -24, y: 318}
+      - {x: -29, y: 316}
+      - {x: -29, y: 286}
+      - {x: -10, y: 286}
+      - {x: -10, y: 317}
+      - {x: -12, y: 318}
+    - - {x: 14, y: 318}
+      - {x: 10, y: 314}
+      - {x: 10, y: 297}
+      - {x: 11, y: 286}
+      - {x: 27, y: 286}
+      - {x: 29, y: 297}
+      - {x: 29, y: 316}
+      - {x: 24, y: 318}
+    - - {x: 56, y: 318}
+      - {x: 50, y: 316}
+      - {x: 50, y: 295}
+      - {x: 52, y: 286}
+      - {x: 70, y: 286}
+      - {x: 70, y: 316}
+      - {x: 67, y: 318}
+    - - {x: 94, y: 318}
+      - {x: 91, y: 314}
+      - {x: 90, y: 310}
+      - {x: 90, y: 295}
+      - {x: 92, y: 286}
+      - {x: 108, y: 286}
+      - {x: 110, y: 294}
+      - {x: 110, y: 315}
+      - {x: 104, y: 318}
+    - - {x: 175, y: 318}
+      - {x: 170, y: 313}
+      - {x: 170, y: 287}
+      - {x: 172, y: 286}
+      - {x: 190, y: 286}
+      - {x: 190, y: 315}
+      - {x: 184, y: 318}
+    - - {x: -146, y: 318}
+      - {x: -150, y: 316}
+      - {x: -150, y: 287}
+      - {x: -130, y: 287}
+      - {x: -130, y: 312}
+      - {x: -135, y: 318}
+    - - {x: 134, y: 318}
+      - {x: 130, y: 316}
+      - {x: 130, y: 288}
+      - {x: 131, y: 287}
+      - {x: 147, y: 287}
+      - {x: 150, y: 289}
+      - {x: 150, y: 315}
+      - {x: 149, y: 318}
+    - - {x: -188, y: 356}
+      - {x: -190, y: 353}
+      - {x: -190, y: 332}
+      - {x: -186, y: 328}
+      - {x: -172, y: 328}
+      - {x: -170, y: 330}
+      - {x: -170, y: 354}
+      - {x: -174, y: 356}
+    - - {x: 176, y: 356}
+      - {x: 170, y: 353}
+      - {x: 170, y: 331}
+      - {x: 176, y: 328}
+      - {x: 190, y: 328}
+      - {x: 190, y: 356}
+    - - {x: -30, y: 355}
+      - {x: -30, y: 333}
+      - {x: -29, y: 329}
+      - {x: -11, y: 329}
+      - {x: -10, y: 332}
+      - {x: -10, y: 350}
+      - {x: -18, y: 355}
+    - - {x: 15, y: 355}
+      - {x: 14, y: 354}
+      - {x: 10, y: 343}
+      - {x: 10, y: 333}
+      - {x: 13, y: 329}
+      - {x: 29, y: 329}
+      - {x: 30, y: 330}
+      - {x: 30, y: 355}
+    - - {x: -145, y: 355}
+      - {x: -149, y: 348}
+      - {x: -149, y: 338}
+      - {x: -147, y: 331}
+      - {x: -144, y: 330}
+      - {x: -134, y: 330}
+      - {x: -130, y: 337}
+      - {x: -130, y: 351}
+      - {x: -132, y: 355}
+    - - {x: -67, y: 354}
+      - {x: -69, y: 353}
+      - {x: -70, y: 341}
+      - {x: -70, y: 332}
+      - {x: -68, y: 330}
+      - {x: -51, y: 330}
+      - {x: -50, y: 333}
+      - {x: -50, y: 347}
+      - {x: -55, y: 354}
+    - - {x: 54, y: 354}
+      - {x: 50, y: 349}
+      - {x: 50, y: 334}
+      - {x: 53, y: 330}
+      - {x: 70, y: 330}
+      - {x: 70, y: 351}
+      - {x: 65, y: 354}
+    - - {x: 135, y: 355}
+      - {x: 130, y: 350}
+      - {x: 130, y: 343}
+      - {x: 134, y: 330}
+      - {x: 148, y: 330}
+      - {x: 149, y: 337}
+      - {x: 149, y: 348}
+      - {x: 144, y: 355}
+    - - {x: -105, y: 351}
+      - {x: -109, y: 347}
+      - {x: -109, y: 338}
+      - {x: -107, y: 333}
+      - {x: -94, y: 333}
+      - {x: -90, y: 334}
+      - {x: -90, y: 348}
+      - {x: -95, y: 351}
+    - - {x: 93, y: 351}
+      - {x: 90, y: 348}
+      - {x: 90, y: 337}
+      - {x: 93, y: 333}
+      - {x: 106, y: 333}
+      - {x: 109, y: 338}
+      - {x: 109, y: 347}
+      - {x: 103, y: 351}
+    - - {x: -108, y: 392}
+      - {x: -109, y: 389}
+      - {x: -109, y: 376}
+      - {x: -107, y: 370}
+      - {x: -91, y: 370}
+      - {x: -91, y: 391}
+      - {x: -93, y: 392}
+    - - {x: -67, y: 392}
+      - {x: -68, y: 390}
+      - {x: -69, y: 384}
+      - {x: -69, y: 374}
+      - {x: -66, y: 370}
+      - {x: -54, y: 370}
+      - {x: -51, y: 374}
+      - {x: -51, y: 392}
+    - - {x: -27, y: 392}
+      - {x: -29, y: 388}
+      - {x: -29, y: 382}
+      - {x: -27, y: 371}
+      - {x: -25, y: 370}
+      - {x: -13, y: 370}
+      - {x: -11, y: 379}
+      - {x: -11, y: 389}
+      - {x: -15, y: 392}
+    - - {x: 28, y: 392}
+      - {x: 13, y: 392}
+      - {x: 11, y: 388}
+      - {x: 11, y: 377}
+      - {x: 15, y: 370}
+      - {x: 24, y: 370}
+      - {x: 26, y: 372}
+      - {x: 29, y: 376}
+      - {x: 29, y: 391}
+    - - {x: 51, y: 392}
+      - {x: 51, y: 370}
+      - {x: 65, y: 370}
+      - {x: 68, y: 371}
+      - {x: 69, y: 373}
+      - {x: 69, y: 392}
+    - - {x: 92, y: 392}
+      - {x: 91, y: 389}
+      - {x: 91, y: 376}
+      - {x: 93, y: 370}
+      - {x: 109, y: 370}
+      - {x: 109, y: 392}
+    - - {x: -146, y: 392}
+      - {x: -149, y: 387}
+      - {x: -149, y: 375}
+      - {x: -146, y: 371}
+      - {x: -130, y: 371}
+      - {x: -130, y: 389}
+      - {x: -131, y: 392}
+    - - {x: 145, y: 392}
+      - {x: 134, y: 392}
+      - {x: 130, y: 387}
+      - {x: 130, y: 374}
+      - {x: 132, y: 371}
+      - {x: 147, y: 371}
+      - {x: 149, y: 376}
+      - {x: 149, y: 388}
+    physicsShape:
+    - - {x: -70, y: -361}
+      - {x: -79, y: -361}
+      - {x: -84, y: -368}
+      - {x: -84, y: -386}
+      - {x: -83, y: -392}
+      - {x: -68, y: -392}
+      - {x: -64, y: -391}
+      - {x: -64, y: -365}
+    - - {x: -48, y: -361}
+      - {x: -54, y: -365}
+      - {x: -54, y: -390}
+      - {x: -53, y: -392}
+      - {x: -34, y: -392}
+      - {x: -34, y: -366}
+      - {x: -37, y: -361}
+    - - {x: -21, y: -361}
+      - {x: -27, y: -364}
+      - {x: -27, y: -388}
+      - {x: -26, y: -392}
+      - {x: -7, y: -392}
+      - {x: -2, y: -375}
+      - {x: -2, y: -369}
+      - {x: -11, y: -361}
+    - - {x: 8, y: -361}
+      - {x: 6, y: -368}
+      - {x: 6, y: -392}
+      - {x: 26, y: -392}
+      - {x: 26, y: -366}
+      - {x: 23, y: -361}
+    - - {x: 52, y: -361}
+      - {x: 44, y: -361}
+      - {x: 33, y: -370}
+      - {x: 33, y: -374}
+      - {x: 38, y: -392}
+      - {x: 56, y: -392}
+      - {x: 58, y: -391}
+      - {x: 58, y: -364}
+    - - {x: 71, y: -361}
+      - {x: 66, y: -364}
+      - {x: 66, y: -392}
+      - {x: 79, y: -392}
+      - {x: 86, y: -387}
+      - {x: 86, y: -368}
+      - {x: 79, y: -361}
+    - - {x: -170, y: -366}
+      - {x: -173, y: -370}
+      - {x: -174, y: -372}
+      - {x: -174, y: -386}
+      - {x: -172, y: -390}
+      - {x: -158, y: -390}
+      - {x: -154, y: -384}
+      - {x: -154, y: -369}
+      - {x: -160, y: -366}
+    - - {x: -138, y: -366}
+      - {x: -144, y: -369}
+      - {x: -144, y: -387}
+      - {x: -141, y: -390}
+      - {x: -127, y: -390}
+      - {x: -124, y: -389}
+      - {x: -124, y: -369}
+      - {x: -130, y: -366}
+    - - {x: -111, y: -366}
+      - {x: -114, y: -370}
+      - {x: -114, y: -388}
+      - {x: -113, y: -390}
+      - {x: -99, y: -390}
+      - {x: -94, y: -388}
+      - {x: -94, y: -370}
+      - {x: -100, y: -366}
+    - - {x: 101, y: -366}
+      - {x: 96, y: -371}
+      - {x: 96, y: -384}
+      - {x: 102, y: -390}
+      - {x: 114, y: -390}
+      - {x: 115, y: -387}
+      - {x: 115, y: -368}
+      - {x: 110, y: -366}
+    - - {x: 141, y: -366}
+      - {x: 129, y: -366}
+      - {x: 126, y: -371}
+      - {x: 126, y: -385}
+      - {x: 129, y: -390}
+      - {x: 141, y: -390}
+      - {x: 146, y: -386}
+      - {x: 146, y: -370}
+    - - {x: 171, y: -367}
+      - {x: 166, y: -366}
+      - {x: 160, y: -366}
+      - {x: 156, y: -373}
+      - {x: 156, y: -388}
+      - {x: 160, y: -390}
+      - {x: 167, y: -390}
+      - {x: 174, y: -385}
+      - {x: 175, y: -377}
+      - {x: 175, y: -373}
+    - - {x: -84, y: -321}
+      - {x: -84, y: -354}
+      - {x: -66, y: -354}
+      - {x: -64, y: -346}
+      - {x: -64, y: -326}
+      - {x: -67, y: -321}
+    - - {x: -34, y: -323}
+      - {x: -37, y: -321}
+      - {x: -53, y: -321}
+      - {x: -54, y: -325}
+      - {x: -54, y: -353}
+      - {x: -52, y: -354}
+      - {x: -35, y: -354}
+      - {x: -34, y: -353}
+    - - {x: -10, y: -321}
+      - {x: -25, y: -321}
+      - {x: -26, y: -327}
+      - {x: -26, y: -351}
+      - {x: -24, y: -353}
+      - {x: -14, y: -354}
+      - {x: -9, y: -354}
+      - {x: -6, y: -353}
+      - {x: -2, y: -340}
+      - {x: -2, y: -329}
+    - - {x: 10, y: -321}
+      - {x: 6, y: -325}
+      - {x: 6, y: -350}
+      - {x: 7, y: -354}
+      - {x: 26, y: -354}
+      - {x: 26, y: -321}
+    - - {x: 54, y: -321}
+      - {x: 40, y: -321}
+      - {x: 34, y: -327}
+      - {x: 34, y: -343}
+      - {x: 38, y: -354}
+      - {x: 50, y: -354}
+      - {x: 56, y: -352}
+      - {x: 57, y: -351}
+      - {x: 58, y: -346}
+      - {x: 58, y: -323}
+    - - {x: 82, y: -321}
+      - {x: 71, y: -321}
+      - {x: 66, y: -323}
+      - {x: 66, y: -348}
+      - {x: 68, y: -353}
+      - {x: 74, y: -354}
+      - {x: 83, y: -354}
+      - {x: 86, y: -350}
+      - {x: 86, y: -330}
+      - {x: 85, y: -324}
+    - - {x: -171, y: -326}
+      - {x: -174, y: -327}
+      - {x: -174, y: -342}
+      - {x: -172, y: -350}
+      - {x: -154, y: -350}
+      - {x: -154, y: -328}
+      - {x: -157, y: -326}
+    - - {x: -140, y: -326}
+      - {x: -144, y: -333}
+      - {x: -144, y: -339}
+      - {x: -142, y: -348}
+      - {x: -141, y: -350}
+      - {x: -136, y: -350}
+      - {x: -129, y: -349}
+      - {x: -124, y: -344}
+      - {x: -124, y: -335}
+      - {x: -127, y: -326}
+    - - {x: -111, y: -326}
+      - {x: -114, y: -333}
+      - {x: -114, y: -350}
+      - {x: -95, y: -350}
+      - {x: -94, y: -345}
+      - {x: -94, y: -331}
+      - {x: -103, y: -326}
+    - - {x: 101, y: -326}
+      - {x: 96, y: -328}
+      - {x: 96, y: -342}
+      - {x: 102, y: -350}
+      - {x: 115, y: -350}
+      - {x: 115, y: -332}
+      - {x: 111, y: -326}
+    - - {x: 134, y: -326}
+      - {x: 126, y: -333}
+      - {x: 126, y: -337}
+      - {x: 127, y: -345}
+      - {x: 134, y: -350}
+      - {x: 146, y: -350}
+      - {x: 146, y: -330}
+      - {x: 140, y: -326}
+    - - {x: 169, y: -326}
+      - {x: 159, y: -326}
+      - {x: 156, y: -329}
+      - {x: 156, y: -350}
+      - {x: 169, y: -350}
+      - {x: 174, y: -344}
+      - {x: 175, y: -340}
+      - {x: 175, y: -328}
+    - - {x: -144, y: -274}
+      - {x: -149, y: -282}
+      - {x: -149, y: -313}
+      - {x: -142, y: -319}
+      - {x: -135, y: -319}
+      - {x: -129, y: -312}
+      - {x: -129, y: -281}
+      - {x: -135, y: -274}
+    - - {x: 134, y: -274}
+      - {x: 128, y: -278}
+      - {x: 128, y: -313}
+      - {x: 130, y: -319}
+      - {x: 144, y: -319}
+      - {x: 148, y: -317}
+      - {x: 148, y: -275}
+      - {x: 147, y: -274}
+    - - {x: -107, y: -279}
+      - {x: -113, y: -283}
+      - {x: -113, y: -315}
+      - {x: -94, y: -315}
+      - {x: -85, y: -299}
+      - {x: -85, y: -284}
+      - {x: -93, y: -279}
+    - - {x: 90, y: -279}
+      - {x: 84, y: -287}
+      - {x: 84, y: -308}
+      - {x: 98, y: -315}
+      - {x: 112, y: -315}
+      - {x: 112, y: -282}
+      - {x: 104, y: -279}
+    - - {x: -24, y: -281}
+      - {x: -36, y: -289}
+      - {x: -36, y: -302}
+      - {x: -25, y: -313}
+      - {x: -12, y: -313}
+      - {x: -4, y: -306}
+      - {x: -4, y: -288}
+      - {x: -6, y: -281}
+    - - {x: 7, y: -281}
+      - {x: 3, y: -285}
+      - {x: 3, y: -301}
+      - {x: 7, y: -311}
+      - {x: 13, y: -313}
+      - {x: 25, y: -313}
+      - {x: 35, y: -302}
+      - {x: 35, y: -286}
+      - {x: 25, y: -281}
+    - - {x: -68, y: -282}
+      - {x: -74, y: -286}
+      - {x: -75, y: -291}
+      - {x: -75, y: -311}
+      - {x: -70, y: -312}
+      - {x: -50, y: -312}
+      - {x: -44, y: -308}
+      - {x: -44, y: -286}
+      - {x: -53, y: -282}
+    - - {x: 43, y: -297}
+      - {x: 43, y: -304}
+      - {x: 48, y: -312}
+      - {x: 71, y: -312}
+      - {x: 74, y: -311}
+      - {x: 74, y: -288}
+      - {x: 73, y: -286}
+      - {x: 64, y: -282}
+      - {x: 51, y: -282}
+      - {x: 45, y: -288}
+    - - {x: -62, y: -242}
+      - {x: -76, y: -255}
+      - {x: -76, y: -260}
+      - {x: -75, y: -263}
+      - {x: -65, y: -274}
+      - {x: -48, y: -274}
+      - {x: -46, y: -266}
+      - {x: -46, y: -244}
+      - {x: -52, y: -242}
+    - - {x: -8, y: -248}
+      - {x: -22, y: -242}
+      - {x: -32, y: -242}
+      - {x: -36, y: -246}
+      - {x: -36, y: -267}
+      - {x: -34, y: -274}
+      - {x: -18, y: -274}
+      - {x: -15, y: -263}
+      - {x: -6, y: -262}
+      - {x: -6, y: -255}
+    - - {x: 18, y: -242}
+      - {x: 5, y: -254}
+      - {x: 5, y: -260}
+      - {x: 6, y: -263}
+      - {x: 17, y: -274}
+      - {x: 34, y: -274}
+      - {x: 35, y: -272}
+      - {x: 35, y: -244}
+      - {x: 29, y: -242}
+    - - {x: 66, y: -243}
+      - {x: 63, y: -242}
+      - {x: 48, y: -242}
+      - {x: 45, y: -248}
+      - {x: 45, y: -267}
+      - {x: 47, y: -274}
+      - {x: 64, y: -274}
+      - {x: 75, y: -260}
+      - {x: 75, y: -253}
+    - - {x: -189, y: -242}
+      - {x: -195, y: -245}
+      - {x: -195, y: -268}
+      - {x: -193, y: -273}
+      - {x: -174, y: -273}
+      - {x: -165, y: -263}
+      - {x: -165, y: -255}
+      - {x: -179, y: -242}
+    - - {x: 180, y: -242}
+      - {x: 169, y: -252}
+      - {x: 164, y: -257}
+      - {x: 164, y: -263}
+      - {x: 173, y: -273}
+      - {x: 194, y: -273}
+      - {x: 194, y: -243}
+      - {x: 192, y: -242}
+    - - {x: -150, y: -242}
+      - {x: -155, y: -245}
+      - {x: -155, y: -264}
+      - {x: -149, y: -272}
+      - {x: -128, y: -272}
+      - {x: -125, y: -261}
+      - {x: -125, y: -246}
+      - {x: -135, y: -242}
+    - - {x: -102, y: -242}
+      - {x: -113, y: -242}
+      - {x: -115, y: -248}
+      - {x: -115, y: -264}
+      - {x: -109, y: -272}
+      - {x: -93, y: -272}
+      - {x: -85, y: -262}
+      - {x: -85, y: -257}
+      - {x: -86, y: -248}
+    - - {x: 94, y: -242}
+      - {x: 84, y: -252}
+      - {x: 84, y: -262}
+      - {x: 89, y: -272}
+      - {x: 105, y: -272}
+      - {x: 114, y: -269}
+      - {x: 114, y: -244}
+      - {x: 109, y: -242}
+    - - {x: 136, y: -242}
+      - {x: 124, y: -249}
+      - {x: 124, y: -262}
+      - {x: 132, y: -272}
+      - {x: 149, y: -272}
+      - {x: 154, y: -264}
+      - {x: 154, y: -245}
+      - {x: 149, y: -242}
+    - - {x: -155, y: -234}
+      - {x: -136, y: -234}
+      - {x: -125, y: -227}
+      - {x: -125, y: -216}
+      - {x: -130, y: -212}
+      - {x: -140, y: -202}
+      - {x: -149, y: -202}
+      - {x: -155, y: -205}
+    - - {x: -19, y: -202}
+      - {x: -30, y: -202}
+      - {x: -36, y: -205}
+      - {x: -36, y: -232}
+      - {x: -31, y: -234}
+      - {x: -15, y: -234}
+      - {x: -6, y: -223}
+      - {x: -6, y: -210}
+      - {x: -8, y: -209}
+    - - {x: 14, y: -202}
+      - {x: 6, y: -206}
+      - {x: 5, y: -207}
+      - {x: 5, y: -225}
+      - {x: 13, y: -233}
+      - {x: 16, y: -234}
+      - {x: 34, y: -234}
+      - {x: 35, y: -233}
+      - {x: 35, y: -206}
+      - {x: 29, y: -202}
+    - - {x: 135, y: -202}
+      - {x: 124, y: -214}
+      - {x: 124, y: -228}
+      - {x: 134, y: -234}
+      - {x: 154, y: -234}
+      - {x: 154, y: -204}
+      - {x: 149, y: -202}
+    - - {x: -179, y: -201}
+      - {x: -190, y: -201}
+      - {x: -195, y: -203}
+      - {x: -195, y: -223}
+      - {x: -193, y: -233}
+      - {x: -178, y: -233}
+      - {x: -169, y: -227}
+      - {x: -165, y: -220}
+      - {x: -165, y: -213}
+    - - {x: -99, y: -202}
+      - {x: -109, y: -202}
+      - {x: -115, y: -205}
+      - {x: -115, y: -228}
+      - {x: -113, y: -233}
+      - {x: -95, y: -233}
+      - {x: -85, y: -224}
+      - {x: -85, y: -217}
+      - {x: -86, y: -215}
+    - - {x: -61, y: -202}
+      - {x: -70, y: -202}
+      - {x: -75, y: -207}
+      - {x: -75, y: -233}
+      - {x: -48, y: -233}
+      - {x: -45, y: -229}
+      - {x: -45, y: -218}
+      - {x: -47, y: -217}
+    - - {x: 58, y: -202}
+      - {x: 47, y: -210}
+      - {x: 44, y: -217}
+      - {x: 44, y: -232}
+      - {x: 50, y: -233}
+      - {x: 74, y: -233}
+      - {x: 74, y: -206}
+      - {x: 68, y: -202}
+    - - {x: 101, y: -202}
+      - {x: 84, y: -217}
+      - {x: 84, y: -221}
+      - {x: 95, y: -233}
+      - {x: 111, y: -233}
+      - {x: 114, y: -232}
+      - {x: 114, y: -207}
+      - {x: 113, y: -202}
+    - - {x: 178, y: -201}
+      - {x: 164, y: -214}
+      - {x: 164, y: -220}
+      - {x: 167, y: -227}
+      - {x: 177, y: -233}
+      - {x: 189, y: -233}
+      - {x: 192, y: -232}
+      - {x: 194, y: -221}
+      - {x: 194, y: -204}
+      - {x: 188, y: -201}
+    - - {x: -195, y: -162}
+      - {x: -195, y: -188}
+      - {x: -192, y: -193}
+      - {x: -189, y: -194}
+      - {x: -176, y: -194}
+      - {x: -165, y: -188}
+      - {x: -165, y: -173}
+      - {x: -181, y: -162}
+    - - {x: -110, y: -162}
+      - {x: -116, y: -165}
+      - {x: -116, y: -191}
+      - {x: -111, y: -194}
+      - {x: -99, y: -194}
+      - {x: -86, y: -183}
+      - {x: -86, y: -175}
+      - {x: -100, y: -162}
+    - - {x: -35, y: -194}
+      - {x: -10, y: -194}
+      - {x: -5, y: -191}
+      - {x: -5, y: -168}
+      - {x: -21, y: -162}
+      - {x: -33, y: -162}
+      - {x: -35, y: -166}
+    - - {x: 21, y: -162}
+      - {x: 4, y: -175}
+      - {x: 4, y: -184}
+      - {x: 13, y: -194}
+      - {x: 32, y: -194}
+      - {x: 34, y: -193}
+      - {x: 34, y: -170}
+      - {x: 31, y: -162}
+    - - {x: 102, y: -162}
+      - {x: 94, y: -167}
+      - {x: 85, y: -178}
+      - {x: 85, y: -187}
+      - {x: 92, y: -194}
+      - {x: 113, y: -194}
+      - {x: 115, y: -193}
+      - {x: 115, y: -173}
+      - {x: 114, y: -168}
+      - {x: 109, y: -162}
+    - - {x: 180, y: -162}
+      - {x: 164, y: -172}
+      - {x: 164, y: -189}
+      - {x: 177, y: -194}
+      - {x: 193, y: -194}
+      - {x: 194, y: -187}
+      - {x: 194, y: -162}
+    - - {x: -151, y: -162}
+      - {x: -156, y: -165}
+      - {x: -156, y: -191}
+      - {x: -152, y: -193}
+      - {x: -132, y: -193}
+      - {x: -126, y: -183}
+      - {x: -126, y: -174}
+      - {x: -140, y: -162}
+    - - {x: -60, y: -162}
+      - {x: -70, y: -162}
+      - {x: -76, y: -165}
+      - {x: -76, y: -188}
+      - {x: -72, y: -192}
+      - {x: -68, y: -193}
+      - {x: -55, y: -193}
+      - {x: -46, y: -185}
+      - {x: -46, y: -177}
+      - {x: -50, y: -171}
+    - - {x: 60, y: -162}
+      - {x: 49, y: -171}
+      - {x: 45, y: -177}
+      - {x: 45, y: -184}
+      - {x: 56, y: -193}
+      - {x: 72, y: -193}
+      - {x: 75, y: -189}
+      - {x: 75, y: -165}
+      - {x: 69, y: -162}
+    - - {x: 140, y: -162}
+      - {x: 125, y: -172}
+      - {x: 125, y: -178}
+      - {x: 133, y: -193}
+      - {x: 149, y: -193}
+      - {x: 155, y: -191}
+      - {x: 155, y: -167}
+      - {x: 151, y: -162}
+    - - {x: -184, y: -122}
+      - {x: -189, y: -126}
+      - {x: -190, y: -133}
+      - {x: -190, y: -154}
+      - {x: -170, y: -154}
+      - {x: -170, y: -127}
+      - {x: -172, y: -122}
+    - - {x: -138, y: -122}
+      - {x: -151, y: -122}
+      - {x: -155, y: -125}
+      - {x: -155, y: -153}
+      - {x: -152, y: -154}
+      - {x: -139, y: -154}
+      - {x: -127, y: -141}
+      - {x: -127, y: -131}
+      - {x: -130, y: -127}
+    - - {x: -90, y: -131}
+      - {x: -99, y: -122}
+      - {x: -110, y: -122}
+      - {x: -115, y: -125}
+      - {x: -115, y: -153}
+      - {x: -112, y: -154}
+      - {x: -100, y: -154}
+      - {x: -99, y: -153}
+      - {x: -86, y: -144}
+      - {x: -86, y: -137}
+    - - {x: -62, y: -122}
+      - {x: -72, y: -122}
+      - {x: -75, y: -126}
+      - {x: -75, y: -153}
+      - {x: -72, y: -154}
+      - {x: -56, y: -154}
+      - {x: -46, y: -149}
+      - {x: -46, y: -140}
+      - {x: -47, y: -137}
+    - - {x: -29, y: -122}
+      - {x: -31, y: -125}
+      - {x: -31, y: -154}
+      - {x: -10, y: -154}
+      - {x: -10, y: -125}
+      - {x: -19, y: -122}
+    - - {x: 16, y: -122}
+      - {x: 11, y: -128}
+      - {x: 9, y: -140}
+      - {x: 9, y: -154}
+      - {x: 28, y: -154}
+      - {x: 30, y: -143}
+      - {x: 30, y: -125}
+      - {x: 25, y: -122}
+    - - {x: 61, y: -122}
+      - {x: 45, y: -131}
+      - {x: 45, y: -148}
+      - {x: 59, y: -154}
+      - {x: 72, y: -154}
+      - {x: 74, y: -144}
+      - {x: 74, y: -122}
+    - - {x: 98, y: -122}
+      - {x: 85, y: -127}
+      - {x: 85, y: -144}
+      - {x: 100, y: -154}
+      - {x: 112, y: -154}
+      - {x: 114, y: -147}
+      - {x: 114, y: -122}
+    - - {x: 141, y: -122}
+      - {x: 128, y: -127}
+      - {x: 126, y: -131}
+      - {x: 126, y: -141}
+      - {x: 138, y: -154}
+      - {x: 150, y: -154}
+      - {x: 154, y: -153}
+      - {x: 154, y: -127}
+      - {x: 149, y: -122}
+    - - {x: 172, y: -122}
+      - {x: 170, y: -128}
+      - {x: 170, y: -153}
+      - {x: 171, y: -154}
+      - {x: 188, y: -154}
+      - {x: 190, y: -153}
+      - {x: 190, y: -127}
+      - {x: 186, y: -122}
+    - - {x: -30, y: -80}
+      - {x: -30, y: -115}
+      - {x: -13, y: -115}
+      - {x: -10, y: -113}
+      - {x: -10, y: -89}
+      - {x: -20, y: -80}
+    - - {x: 19, y: -80}
+      - {x: 10, y: -86}
+      - {x: 10, y: -112}
+      - {x: 12, y: -115}
+      - {x: 28, y: -115}
+      - {x: 30, y: -114}
+      - {x: 30, y: -80}
+    - - {x: -183, y: -81}
+      - {x: -190, y: -84}
+      - {x: -190, y: -104}
+      - {x: -181, y: -114}
+      - {x: -174, y: -114}
+      - {x: -171, y: -113}
+      - {x: -170, y: -105}
+      - {x: -170, y: -88}
+      - {x: -174, y: -81}
+    - - {x: -63, y: -81}
+      - {x: -70, y: -84}
+      - {x: -70, y: -114}
+      - {x: -50, y: -114}
+      - {x: -50, y: -85}
+      - {x: -53, y: -81}
+    - - {x: 56, y: -81}
+      - {x: 50, y: -85}
+      - {x: 50, y: -114}
+      - {x: 67, y: -114}
+      - {x: 70, y: -113}
+      - {x: 70, y: -95}
+      - {x: 68, y: -86}
+      - {x: 62, y: -81}
+    - - {x: 176, y: -81}
+      - {x: 170, y: -89}
+      - {x: 170, y: -108}
+      - {x: 171, y: -113}
+      - {x: 173, y: -114}
+      - {x: 181, y: -114}
+      - {x: 190, y: -101}
+      - {x: 190, y: -91}
+      - {x: 186, y: -81}
+    - - {x: -146, y: -82}
+      - {x: -149, y: -87}
+      - {x: -149, y: -105}
+      - {x: -146, y: -113}
+      - {x: -131, y: -113}
+      - {x: -130, y: -107}
+      - {x: -130, y: -85}
+      - {x: -134, y: -82}
+    - - {x: 136, y: -82}
+      - {x: 130, y: -84}
+      - {x: 130, y: -113}
+      - {x: 144, y: -113}
+      - {x: 147, y: -112}
+      - {x: 149, y: -104}
+      - {x: 149, y: -87}
+      - {x: 147, y: -82}
+    - - {x: -95, y: -88}
+      - {x: -105, y: -88}
+      - {x: -110, y: -93}
+      - {x: -110, y: -99}
+      - {x: -109, y: -107}
+      - {x: -91, y: -107}
+      - {x: -90, y: -106}
+      - {x: -90, y: -97}
+      - {x: -91, y: -92}
+    - - {x: 95, y: -88}
+      - {x: 90, y: -93}
+      - {x: 90, y: -103}
+      - {x: 91, y: -107}
+      - {x: 107, y: -107}
+      - {x: 110, y: -104}
+      - {x: 110, y: -93}
+      - {x: 107, y: -88}
+    - - {x: -184, y: -42}
+      - {x: -190, y: -46}
+      - {x: -190, y: -71}
+      - {x: -188, y: -74}
+      - {x: -175, y: -74}
+      - {x: -170, y: -73}
+      - {x: -170, y: -48}
+      - {x: -174, y: -42}
+    - - {x: -93, y: -42}
+      - {x: -104, y: -42}
+      - {x: -110, y: -48}
+      - {x: -110, y: -73}
+      - {x: -108, y: -74}
+      - {x: -92, y: -74}
+      - {x: -91, y: -73}
+      - {x: -90, y: -71}
+      - {x: -90, y: -48}
+    - - {x: -65, y: -42}
+      - {x: -70, y: -47}
+      - {x: -70, y: -68}
+      - {x: -69, y: -73}
+      - {x: -68, y: -74}
+      - {x: -50, y: -74}
+      - {x: -50, y: -44}
+      - {x: -56, y: -42}
+    - - {x: -24, y: -42}
+      - {x: -29, y: -44}
+      - {x: -29, y: -73}
+      - {x: -27, y: -74}
+      - {x: -12, y: -74}
+      - {x: -10, y: -66}
+      - {x: -10, y: -44}
+      - {x: -13, y: -42}
+    - - {x: 27, y: -42}
+      - {x: 16, y: -42}
+      - {x: 10, y: -44}
+      - {x: 10, y: -66}
+      - {x: 12, y: -74}
+      - {x: 25, y: -74}
+      - {x: 28, y: -73}
+      - {x: 29, y: -62}
+      - {x: 29, y: -45}
+    - - {x: 64, y: -42}
+      - {x: 54, y: -42}
+      - {x: 50, y: -46}
+      - {x: 50, y: -67}
+      - {x: 52, y: -74}
+      - {x: 67, y: -74}
+      - {x: 68, y: -72}
+      - {x: 70, y: -62}
+      - {x: 70, y: -45}
+    - - {x: 94, y: -42}
+      - {x: 91, y: -46}
+      - {x: 90, y: -50}
+      - {x: 90, y: -65}
+      - {x: 93, y: -74}
+      - {x: 110, y: -74}
+      - {x: 110, y: -43}
+      - {x: 106, y: -42}
+    - - {x: 175, y: -42}
+      - {x: 170, y: -47}
+      - {x: 170, y: -71}
+      - {x: 174, y: -74}
+      - {x: 187, y: -74}
+      - {x: 190, y: -72}
+      - {x: 190, y: -45}
+      - {x: 184, y: -42}
+    - - {x: -145, y: -42}
+      - {x: -150, y: -45}
+      - {x: -150, y: -72}
+      - {x: -146, y: -73}
+      - {x: -130, y: -73}
+      - {x: -130, y: -48}
+      - {x: -135, y: -42}
+    - - {x: 138, y: -42}
+      - {x: 130, y: -48}
+      - {x: 130, y: -73}
+      - {x: 150, y: -73}
+      - {x: 150, y: -44}
+      - {x: 144, y: -42}
+    - - {x: -30, y: 21}
+      - {x: -30, y: -1}
+      - {x: -27, y: -4}
+      - {x: -30, y: -11}
+      - {x: -30, y: -27}
+      - {x: -28, y: -36}
+      - {x: -12, y: -36}
+      - {x: -10, y: -25}
+      - {x: -10, y: 21}
+    - - {x: 10, y: 21}
+      - {x: 10, y: 3}
+      - {x: 11, y: -4}
+      - {x: 10, y: -9}
+      - {x: 10, y: -36}
+      - {x: 26, y: -36}
+      - {x: 29, y: -35}
+      - {x: 30, y: -18}
+      - {x: 30, y: 21}
+    - - {x: -67, y: 17}
+      - {x: -69, y: 15}
+      - {x: -70, y: 3}
+      - {x: -70, y: -32}
+      - {x: -49, y: -32}
+      - {x: -49, y: 17}
+    - - {x: 49, y: 17}
+      - {x: 49, y: -32}
+      - {x: 69, y: -32}
+      - {x: 70, y: -31}
+      - {x: 70, y: 9}
+      - {x: 69, y: 17}
+    - - {x: -10, y: 78}
+      - {x: -30, y: 78}
+      - {x: -53, y: 58}
+      - {x: -53, y: 31}
+      - {x: -52, y: 27}
+      - {x: -36, y: 27}
+      - {x: -20, y: 55}
+      - {x: -6, y: 58}
+      - {x: -6, y: 76}
+    - - {x: 23, y: 78}
+      - {x: 6, y: 78}
+      - {x: 6, y: 58}
+      - {x: 21, y: 58}
+      - {x: 23, y: 60}
+      - {x: 34, y: 27}
+      - {x: 49, y: 27}
+      - {x: 53, y: 32}
+      - {x: 53, y: 55}
+      - {x: 49, y: 66}
+    - - {x: -61, y: 77}
+      - {x: -71, y: 77}
+      - {x: -100, y: 55}
+      - {x: -103, y: 50}
+      - {x: -103, y: 36}
+      - {x: -98, y: 28}
+      - {x: -80, y: 28}
+      - {x: -76, y: 30}
+      - {x: -56, y: 56}
+      - {x: -56, y: 72}
+    - - {x: 93, y: 62}
+      - {x: 72, y: 77}
+      - {x: 57, y: 77}
+      - {x: 56, y: 73}
+      - {x: 56, y: 56}
+      - {x: 77, y: 53}
+      - {x: 74, y: 30}
+      - {x: 80, y: 28}
+      - {x: 98, y: 28}
+      - {x: 103, y: 34}
+      - {x: 103, y: 45}
+    - - {x: -110, y: 75}
+      - {x: -127, y: 75}
+      - {x: -152, y: 55}
+      - {x: -153, y: 51}
+      - {x: -153, y: 37}
+      - {x: -149, y: 29}
+      - {x: -126, y: 29}
+      - {x: -106, y: 55}
+      - {x: -106, y: 71}
+    - - {x: 110, y: 75}
+      - {x: 106, y: 73}
+      - {x: 106, y: 57}
+      - {x: 107, y: 53}
+      - {x: 121, y: 55}
+      - {x: 123, y: 57}
+      - {x: 131, y: 32}
+      - {x: 133, y: 29}
+      - {x: 148, y: 29}
+      - {x: 153, y: 36}
+      - {x: 153, y: 57}
+      - {x: 122, y: 75}
+    - - {x: -170, y: 76}
+      - {x: -178, y: 76}
+      - {x: -190, y: 71}
+      - {x: -196, y: 62}
+      - {x: -196, y: 54}
+      - {x: -190, y: 49}
+      - {x: -176, y: 49}
+      - {x: -169, y: 50}
+      - {x: -163, y: 55}
+      - {x: -163, y: 63}
+      - {x: -166, y: 72}
+    - - {x: 182, y: 76}
+      - {x: 171, y: 76}
+      - {x: 164, y: 74}
+      - {x: 163, y: 66}
+      - {x: 163, y: 54}
+      - {x: 166, y: 49}
+      - {x: 195, y: 49}
+      - {x: 196, y: 52}
+      - {x: 196, y: 64}
+    - - {x: -95, y: 125}
+      - {x: -104, y: 125}
+      - {x: -109, y: 122}
+      - {x: -109, y: 79}
+      - {x: -92, y: 79}
+      - {x: -92, y: 81}
+      - {x: -90, y: 91}
+      - {x: -90, y: 123}
+    - - {x: 103, y: 125}
+      - {x: 90, y: 125}
+      - {x: 90, y: 79}
+      - {x: 108, y: 79}
+      - {x: 109, y: 80}
+      - {x: 109, y: 122}
+    - - {x: -51, y: 123}
+      - {x: -59, y: 123}
+      - {x: -75, y: 109}
+      - {x: -75, y: 82}
+      - {x: -74, y: 81}
+      - {x: -60, y: 81}
+      - {x: -57, y: 82}
+      - {x: -44, y: 110}
+      - {x: -44, y: 117}
+    - - {x: 51, y: 123}
+      - {x: 44, y: 116}
+      - {x: 44, y: 112}
+      - {x: 57, y: 82}
+      - {x: 58, y: 81}
+      - {x: 75, y: 81}
+      - {x: 75, y: 111}
+      - {x: 58, y: 123}
+    - - {x: -142, y: 121}
+      - {x: -147, y: 121}
+      - {x: -156, y: 117}
+      - {x: -156, y: 107}
+      - {x: -144, y: 84}
+      - {x: -129, y: 84}
+      - {x: -126, y: 85}
+      - {x: -123, y: 89}
+      - {x: -123, y: 95}
+      - {x: -125, y: 107}
+    - - {x: 123, y: 88}
+      - {x: 125, y: 84}
+      - {x: 144, y: 84}
+      - {x: 156, y: 97}
+      - {x: 156, y: 117}
+      - {x: 152, y: 121}
+      - {x: 141, y: 121}
+      - {x: 123, y: 102}
+    - - {x: -10, y: 117}
+      - {x: -35, y: 117}
+      - {x: -38, y: 112}
+      - {x: -38, y: 87}
+      - {x: -6, y: 87}
+      - {x: -2, y: 90}
+      - {x: -2, y: 112}
+      - {x: -5, y: 116}
+    - - {x: 35, y: 117}
+      - {x: 13, y: 117}
+      - {x: 2, y: 115}
+      - {x: 2, y: 101}
+      - {x: 5, y: 96}
+      - {x: 17, y: 87}
+      - {x: 36, y: 87}
+      - {x: 38, y: 88}
+      - {x: 38, y: 113}
+    - - {x: -173, y: 116}
+      - {x: -196, y: 116}
+      - {x: -196, y: 95}
+      - {x: -188, y: 89}
+      - {x: -167, y: 89}
+      - {x: -162, y: 94}
+      - {x: -162, y: 113}
+    - - {x: 172, y: 116}
+      - {x: 164, y: 112}
+      - {x: 162, y: 102}
+      - {x: 162, y: 94}
+      - {x: 165, y: 89}
+      - {x: 182, y: 89}
+      - {x: 196, y: 99}
+      - {x: 196, y: 116}
+    - - {x: -50, y: 160}
+      - {x: -59, y: 160}
+      - {x: -68, y: 158}
+      - {x: -72, y: 151}
+      - {x: -72, y: 125}
+      - {x: -67, y: 124}
+      - {x: -54, y: 124}
+      - {x: -52, y: 127}
+      - {x: -47, y: 142}
+      - {x: -47, y: 153}
+    - - {x: 64, y: 160}
+      - {x: 54, y: 160}
+      - {x: 48, y: 155}
+      - {x: 47, y: 151}
+      - {x: 47, y: 144}
+      - {x: 48, y: 137}
+      - {x: 54, y: 124}
+      - {x: 72, y: 124}
+      - {x: 72, y: 146}
+      - {x: 69, y: 159}
+    - - {x: -187, y: 159}
+      - {x: -190, y: 155}
+      - {x: -190, y: 126}
+      - {x: -170, y: 126}
+      - {x: -170, y: 157}
+      - {x: -175, y: 159}
+    - - {x: -94, y: 159}
+      - {x: -111, y: 159}
+      - {x: -113, y: 151}
+      - {x: -113, y: 129}
+      - {x: -110, y: 126}
+      - {x: -92, y: 126}
+      - {x: -87, y: 138}
+      - {x: -87, y: 150}
+    - - {x: -13, y: 159}
+      - {x: -30, y: 159}
+      - {x: -32, y: 154}
+      - {x: -32, y: 127}
+      - {x: -28, y: 126}
+      - {x: -17, y: 126}
+      - {x: -14, y: 134}
+      - {x: -8, y: 146}
+      - {x: -8, y: 153}
+    - - {x: 11, y: 159}
+      - {x: 8, y: 153}
+      - {x: 8, y: 141}
+      - {x: 16, y: 126}
+      - {x: 32, y: 126}
+      - {x: 32, y: 156}
+      - {x: 25, y: 159}
+    - - {x: 88, y: 159}
+      - {x: 87, y: 158}
+      - {x: 87, y: 134}
+      - {x: 88, y: 126}
+      - {x: 110, y: 126}
+      - {x: 113, y: 130}
+      - {x: 113, y: 155}
+      - {x: 106, y: 159}
+    - - {x: 174, y: 159}
+      - {x: 170, y: 155}
+      - {x: 170, y: 126}
+      - {x: 190, y: 126}
+      - {x: 190, y: 153}
+      - {x: 185, y: 159}
+    - - {x: -145, y: 157}
+      - {x: -151, y: 157}
+      - {x: -158, y: 153}
+      - {x: -158, y: 127}
+      - {x: -123, y: 127}
+      - {x: -122, y: 129}
+      - {x: -122, y: 139}
+      - {x: -130, y: 150}
+    - - {x: 144, y: 157}
+      - {x: 137, y: 148}
+      - {x: 130, y: 149}
+      - {x: 122, y: 139}
+      - {x: 122, y: 133}
+      - {x: 128, y: 127}
+      - {x: 158, y: 127}
+      - {x: 158, y: 154}
+      - {x: 151, y: 157}
+    - - {x: -148, y: 198}
+      - {x: -150, y: 194}
+      - {x: -150, y: 172}
+      - {x: -147, y: 166}
+      - {x: -132, y: 166}
+      - {x: -130, y: 173}
+      - {x: -130, y: 196}
+      - {x: -135, y: 198}
+    - - {x: -104, y: 198}
+      - {x: -110, y: 196}
+      - {x: -110, y: 169}
+      - {x: -109, y: 166}
+      - {x: -93, y: 166}
+      - {x: -90, y: 175}
+      - {x: -90, y: 194}
+      - {x: -92, y: 198}
+    - - {x: 94, y: 198}
+      - {x: 90, y: 195}
+      - {x: 90, y: 181}
+      - {x: 92, y: 167}
+      - {x: 93, y: 166}
+      - {x: 105, y: 166}
+      - {x: 109, y: 167}
+      - {x: 110, y: 179}
+      - {x: 110, y: 192}
+      - {x: 104, y: 198}
+    - - {x: 133, y: 198}
+      - {x: 130, y: 196}
+      - {x: 130, y: 176}
+      - {x: 132, y: 166}
+      - {x: 147, y: 166}
+      - {x: 150, y: 178}
+      - {x: 150, y: 195}
+      - {x: 143, y: 198}
+    - - {x: -183, y: 198}
+      - {x: -190, y: 196}
+      - {x: -190, y: 171}
+      - {x: -189, y: 167}
+      - {x: -169, y: 167}
+      - {x: -169, y: 192}
+      - {x: -176, y: 198}
+    - - {x: -66, y: 198}
+      - {x: -69, y: 193}
+      - {x: -69, y: 175}
+      - {x: -66, y: 167}
+      - {x: -51, y: 167}
+      - {x: -50, y: 173}
+      - {x: -50, y: 195}
+      - {x: -54, y: 198}
+    - - {x: 65, y: 198}
+      - {x: 56, y: 198}
+      - {x: 50, y: 195}
+      - {x: 50, y: 172}
+      - {x: 51, y: 167}
+      - {x: 64, y: 167}
+      - {x: 66, y: 169}
+      - {x: 69, y: 178}
+      - {x: 69, y: 191}
+    - - {x: 183, y: 198}
+      - {x: 175, y: 198}
+      - {x: 169, y: 194}
+      - {x: 169, y: 167}
+      - {x: 189, y: 167}
+      - {x: 190, y: 172}
+      - {x: 190, y: 194}
+    - - {x: -15, y: 197}
+      - {x: -25, y: 197}
+      - {x: -30, y: 194}
+      - {x: -30, y: 172}
+      - {x: -29, y: 168}
+      - {x: -13, y: 168}
+      - {x: -11, y: 174}
+      - {x: -10, y: 185}
+      - {x: -10, y: 192}
+    - - {x: 15, y: 197}
+      - {x: 10, y: 191}
+      - {x: 10, y: 173}
+      - {x: 16, y: 168}
+      - {x: 23, y: 168}
+      - {x: 28, y: 169}
+      - {x: 30, y: 171}
+      - {x: 30, y: 194}
+      - {x: 24, y: 197}
+    - - {x: -184, y: 238}
+      - {x: -190, y: 235}
+      - {x: -190, y: 212}
+      - {x: -185, y: 206}
+      - {x: -172, y: 206}
+      - {x: -170, y: 213}
+      - {x: -170, y: 234}
+      - {x: -174, y: 238}
+    - - {x: -105, y: 238}
+      - {x: -111, y: 235}
+      - {x: -111, y: 207}
+      - {x: -109, y: 206}
+      - {x: -90, y: 206}
+      - {x: -89, y: 207}
+      - {x: -89, y: 229}
+      - {x: -96, y: 238}
+    - - {x: -28, y: 238}
+      - {x: -31, y: 236}
+      - {x: -31, y: 217}
+      - {x: -29, y: 206}
+      - {x: -15, y: 206}
+      - {x: -9, y: 213}
+      - {x: -9, y: 227}
+      - {x: -15, y: 238}
+    - - {x: 12, y: 238}
+      - {x: 9, y: 237}
+      - {x: 9, y: 206}
+      - {x: 29, y: 206}
+      - {x: 31, y: 215}
+      - {x: 31, y: 237}
+      - {x: 28, y: 238}
+    - - {x: 94, y: 238}
+      - {x: 89, y: 235}
+      - {x: 89, y: 206}
+      - {x: 109, y: 206}
+      - {x: 111, y: 208}
+      - {x: 111, y: 235}
+      - {x: 105, y: 238}
+    - - {x: 176, y: 238}
+      - {x: 170, y: 232}
+      - {x: 170, y: 214}
+      - {x: 176, y: 206}
+      - {x: 186, y: 206}
+      - {x: 190, y: 209}
+      - {x: 190, y: 236}
+      - {x: 184, y: 238}
+    - - {x: -149, y: 237}
+      - {x: -151, y: 236}
+      - {x: -151, y: 210}
+      - {x: -142, y: 207}
+      - {x: -128, y: 207}
+      - {x: -128, y: 226}
+      - {x: -134, y: 237}
+    - - {x: -65, y: 238}
+      - {x: -71, y: 234}
+      - {x: -71, y: 209}
+      - {x: -70, y: 207}
+      - {x: -49, y: 207}
+      - {x: -49, y: 229}
+      - {x: -55, y: 238}
+    - - {x: 58, y: 238}
+      - {x: 49, y: 235}
+      - {x: 49, y: 216}
+      - {x: 52, y: 207}
+      - {x: 71, y: 207}
+      - {x: 71, y: 238}
+    - - {x: 135, y: 237}
+      - {x: 129, y: 232}
+      - {x: 128, y: 221}
+      - {x: 128, y: 207}
+      - {x: 142, y: 207}
+      - {x: 151, y: 210}
+      - {x: 151, y: 234}
+      - {x: 145, y: 237}
+    - - {x: -26, y: 280}
+      - {x: -30, y: 277}
+      - {x: -30, y: 249}
+      - {x: -26, y: 246}
+      - {x: -24, y: 245}
+      - {x: -10, y: 245}
+      - {x: -10, y: 275}
+      - {x: -20, y: 280}
+    - - {x: 19, y: 280}
+      - {x: 10, y: 270}
+      - {x: 10, y: 245}
+      - {x: 27, y: 245}
+      - {x: 30, y: 248}
+      - {x: 30, y: 280}
+    - - {x: -183, y: 279}
+      - {x: -187, y: 278}
+      - {x: -189, y: 274}
+      - {x: -190, y: 263}
+      - {x: -190, y: 258}
+      - {x: -181, y: 246}
+      - {x: -173, y: 246}
+      - {x: -171, y: 247}
+      - {x: -170, y: 253}
+      - {x: -170, y: 271}
+      - {x: -175, y: 279}
+    - - {x: -144, y: 278}
+      - {x: -150, y: 274}
+      - {x: -150, y: 246}
+      - {x: -130, y: 246}
+      - {x: -130, y: 276}
+      - {x: -132, y: 278}
+    - - {x: -66, y: 279}
+      - {x: -70, y: 275}
+      - {x: -70, y: 247}
+      - {x: -66, y: 246}
+      - {x: -50, y: 246}
+      - {x: -50, y: 276}
+      - {x: -56, y: 279}
+    - - {x: 50, y: 275}
+      - {x: 50, y: 246}
+      - {x: 67, y: 246}
+      - {x: 70, y: 247}
+      - {x: 70, y: 265}
+      - {x: 68, y: 274}
+      - {x: 62, y: 279}
+      - {x: 57, y: 279}
+    - - {x: 135, y: 278}
+      - {x: 130, y: 277}
+      - {x: 130, y: 267}
+      - {x: 131, y: 256}
+      - {x: 130, y: 253}
+      - {x: 130, y: 246}
+      - {x: 150, y: 246}
+      - {x: 150, y: 277}
+      - {x: 148, y: 278}
+    - - {x: 176, y: 279}
+      - {x: 170, y: 271}
+      - {x: 170, y: 252}
+      - {x: 171, y: 247}
+      - {x: 173, y: 246}
+      - {x: 181, y: 246}
+      - {x: 190, y: 252}
+      - {x: 190, y: 272}
+      - {x: 187, y: 279}
+    - - {x: -94, y: 272}
+      - {x: -105, y: 272}
+      - {x: -110, y: 269}
+      - {x: -110, y: 259}
+      - {x: -106, y: 253}
+      - {x: -94, y: 253}
+      - {x: -90, y: 257}
+      - {x: -90, y: 265}
+    - - {x: 106, y: 272}
+      - {x: 96, y: 272}
+      - {x: 90, y: 270}
+      - {x: 90, y: 255}
+      - {x: 94, y: 253}
+      - {x: 106, y: 253}
+      - {x: 110, y: 259}
+      - {x: 110, y: 267}
+    - - {x: -186, y: 318}
+      - {x: -190, y: 311}
+      - {x: -190, y: 290}
+      - {x: -188, y: 286}
+      - {x: -174, y: 286}
+      - {x: -170, y: 287}
+      - {x: -170, y: 311}
+      - {x: -175, y: 318}
+    - - {x: -106, y: 318}
+      - {x: -110, y: 315}
+      - {x: -110, y: 293}
+      - {x: -107, y: 286}
+      - {x: -92, y: 286}
+      - {x: -90, y: 294}
+      - {x: -90, y: 315}
+      - {x: -96, y: 318}
+    - - {x: -70, y: 318}
+      - {x: -70, y: 286}
+      - {x: -50, y: 286}
+      - {x: -50, y: 315}
+      - {x: -56, y: 318}
+    - - {x: -24, y: 318}
+      - {x: -29, y: 316}
+      - {x: -29, y: 286}
+      - {x: -10, y: 286}
+      - {x: -10, y: 317}
+      - {x: -12, y: 318}
+    - - {x: 14, y: 318}
+      - {x: 10, y: 314}
+      - {x: 10, y: 297}
+      - {x: 11, y: 286}
+      - {x: 27, y: 286}
+      - {x: 29, y: 297}
+      - {x: 29, y: 316}
+      - {x: 24, y: 318}
+    - - {x: 56, y: 318}
+      - {x: 50, y: 316}
+      - {x: 50, y: 295}
+      - {x: 52, y: 286}
+      - {x: 70, y: 286}
+      - {x: 70, y: 316}
+      - {x: 67, y: 318}
+    - - {x: 94, y: 318}
+      - {x: 91, y: 314}
+      - {x: 90, y: 310}
+      - {x: 90, y: 295}
+      - {x: 92, y: 286}
+      - {x: 108, y: 286}
+      - {x: 110, y: 294}
+      - {x: 110, y: 315}
+      - {x: 104, y: 318}
+    - - {x: 175, y: 318}
+      - {x: 170, y: 313}
+      - {x: 170, y: 287}
+      - {x: 172, y: 286}
+      - {x: 190, y: 286}
+      - {x: 190, y: 315}
+      - {x: 184, y: 318}
+    - - {x: -146, y: 318}
+      - {x: -150, y: 316}
+      - {x: -150, y: 287}
+      - {x: -130, y: 287}
+      - {x: -130, y: 312}
+      - {x: -135, y: 318}
+    - - {x: 134, y: 318}
+      - {x: 130, y: 316}
+      - {x: 130, y: 288}
+      - {x: 131, y: 287}
+      - {x: 147, y: 287}
+      - {x: 150, y: 289}
+      - {x: 150, y: 315}
+      - {x: 149, y: 318}
+    - - {x: -188, y: 356}
+      - {x: -190, y: 353}
+      - {x: -190, y: 332}
+      - {x: -186, y: 328}
+      - {x: -172, y: 328}
+      - {x: -170, y: 330}
+      - {x: -170, y: 354}
+      - {x: -174, y: 356}
+    - - {x: 176, y: 356}
+      - {x: 170, y: 353}
+      - {x: 170, y: 331}
+      - {x: 176, y: 328}
+      - {x: 190, y: 328}
+      - {x: 190, y: 356}
+    - - {x: -30, y: 355}
+      - {x: -30, y: 333}
+      - {x: -29, y: 329}
+      - {x: -11, y: 329}
+      - {x: -10, y: 332}
+      - {x: -10, y: 350}
+      - {x: -18, y: 355}
+    - - {x: 15, y: 355}
+      - {x: 14, y: 354}
+      - {x: 10, y: 343}
+      - {x: 10, y: 333}
+      - {x: 13, y: 329}
+      - {x: 29, y: 329}
+      - {x: 30, y: 330}
+      - {x: 30, y: 355}
+    - - {x: -145, y: 355}
+      - {x: -149, y: 348}
+      - {x: -149, y: 338}
+      - {x: -147, y: 331}
+      - {x: -144, y: 330}
+      - {x: -134, y: 330}
+      - {x: -130, y: 337}
+      - {x: -130, y: 351}
+      - {x: -132, y: 355}
+    - - {x: -67, y: 354}
+      - {x: -69, y: 353}
+      - {x: -70, y: 341}
+      - {x: -70, y: 332}
+      - {x: -68, y: 330}
+      - {x: -51, y: 330}
+      - {x: -50, y: 333}
+      - {x: -50, y: 347}
+      - {x: -55, y: 354}
+    - - {x: 54, y: 354}
+      - {x: 50, y: 349}
+      - {x: 50, y: 334}
+      - {x: 53, y: 330}
+      - {x: 70, y: 330}
+      - {x: 70, y: 351}
+      - {x: 65, y: 354}
+    - - {x: 135, y: 355}
+      - {x: 130, y: 350}
+      - {x: 130, y: 343}
+      - {x: 134, y: 330}
+      - {x: 148, y: 330}
+      - {x: 149, y: 337}
+      - {x: 149, y: 348}
+      - {x: 144, y: 355}
+    - - {x: -105, y: 351}
+      - {x: -109, y: 347}
+      - {x: -109, y: 338}
+      - {x: -107, y: 333}
+      - {x: -94, y: 333}
+      - {x: -90, y: 334}
+      - {x: -90, y: 348}
+      - {x: -95, y: 351}
+    - - {x: 93, y: 351}
+      - {x: 90, y: 348}
+      - {x: 90, y: 337}
+      - {x: 93, y: 333}
+      - {x: 106, y: 333}
+      - {x: 109, y: 338}
+      - {x: 109, y: 347}
+      - {x: 103, y: 351}
+    - - {x: -108, y: 392}
+      - {x: -109, y: 389}
+      - {x: -109, y: 376}
+      - {x: -107, y: 370}
+      - {x: -91, y: 370}
+      - {x: -91, y: 391}
+      - {x: -93, y: 392}
+    - - {x: -67, y: 392}
+      - {x: -68, y: 390}
+      - {x: -69, y: 384}
+      - {x: -69, y: 374}
+      - {x: -66, y: 370}
+      - {x: -54, y: 370}
+      - {x: -51, y: 374}
+      - {x: -51, y: 392}
+    - - {x: -27, y: 392}
+      - {x: -29, y: 388}
+      - {x: -29, y: 382}
+      - {x: -27, y: 371}
+      - {x: -25, y: 370}
+      - {x: -13, y: 370}
+      - {x: -11, y: 379}
+      - {x: -11, y: 389}
+      - {x: -15, y: 392}
+    - - {x: 28, y: 392}
+      - {x: 13, y: 392}
+      - {x: 11, y: 388}
+      - {x: 11, y: 377}
+      - {x: 15, y: 370}
+      - {x: 24, y: 370}
+      - {x: 26, y: 372}
+      - {x: 29, y: 376}
+      - {x: 29, y: 391}
+    - - {x: 51, y: 392}
+      - {x: 51, y: 370}
+      - {x: 65, y: 370}
+      - {x: 68, y: 371}
+      - {x: 69, y: 373}
+      - {x: 69, y: 392}
+    - - {x: 92, y: 392}
+      - {x: 91, y: 389}
+      - {x: 91, y: 376}
+      - {x: 93, y: 370}
+      - {x: 109, y: 370}
+      - {x: 109, y: 392}
+    - - {x: -146, y: 392}
+      - {x: -149, y: 387}
+      - {x: -149, y: 375}
+      - {x: -146, y: 371}
+      - {x: -130, y: 371}
+      - {x: -130, y: 389}
+      - {x: -131, y: 392}
+    - - {x: 145, y: 392}
+      - {x: 134, y: 392}
+      - {x: 130, y: 387}
+      - {x: 130, y: 374}
+      - {x: 132, y: 371}
+      - {x: 147, y: 371}
+      - {x: 149, y: 376}
+      - {x: 149, y: 388}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

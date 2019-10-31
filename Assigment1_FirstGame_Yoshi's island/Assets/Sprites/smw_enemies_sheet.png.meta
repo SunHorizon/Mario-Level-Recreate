@@ -1,0 +1,5325 @@
+fileFormatVersion: 2
+guid: 21f246f31dc82974ba947c6b8a35d6dd
+timeCreated: 1521029351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smw_enemies_sheet_0
+    21300002: smw_enemies_sheet_1
+    21300004: smw_enemies_sheet_2
+    21300006: smw_enemies_sheet_3
+    21300008: smw_enemies_sheet_4
+    21300010: smw_enemies_sheet_5
+    21300012: smw_enemies_sheet_6
+    21300014: smw_enemies_sheet_7
+    21300016: smw_enemies_sheet_8
+    21300018: smw_enemies_sheet_9
+    21300020: smw_enemies_sheet_10
+    21300022: smw_enemies_sheet_11
+    21300024: smw_enemies_sheet_12
+    21300026: smw_enemies_sheet_13
+    21300028: smw_enemies_sheet_14
+    21300030: smw_enemies_sheet_15
+    21300032: smw_enemies_sheet_16
+    21300034: smw_enemies_sheet_17
+    21300036: smw_enemies_sheet_18
+    21300038: smw_enemies_sheet_19
+    21300040: smw_enemies_sheet_20
+    21300042: smw_enemies_sheet_21
+    21300044: smw_enemies_sheet_22
+    21300046: smw_enemies_sheet_23
+    21300048: smw_enemies_sheet_24
+    21300050: smw_enemies_sheet_25
+    21300052: smw_enemies_sheet_26
+    21300054: smw_enemies_sheet_27
+    21300056: smw_enemies_sheet_28
+    21300058: smw_enemies_sheet_29
+    21300060: smw_enemies_sheet_30
+    21300062: smw_enemies_sheet_31
+    21300064: Green_Baby_Turtle
+    21300066: smw_enemies_sheet_33
+    21300068: smw_enemies_sheet_34
+    21300070: smw_enemies_sheet_35
+    21300072: smw_enemies_sheet_36
+    21300074: smw_enemies_sheet_37
+    21300076: smw_enemies_sheet_38
+    21300078: smw_enemies_sheet_39
+    21300080: smw_enemies_sheet_40
+    21300082: smw_enemies_sheet_41
+    21300084: smw_enemies_sheet_42
+    21300086: smw_enemies_sheet_43
+    21300088: smw_enemies_sheet_44
+    21300090: smw_enemies_sheet_45
+    21300092: smw_enemies_sheet_46
+    21300094: smw_enemies_sheet_47
+    21300096: smw_enemies_sheet_48
+    21300098: smw_enemies_sheet_49
+    21300100: smw_enemies_sheet_50
+    21300102: smw_enemies_sheet_51
+    21300104: smw_enemies_sheet_52
+    21300106: smw_enemies_sheet_53
+    21300108: smw_enemies_sheet_54
+    21300110: smw_enemies_sheet_55
+    21300112: smw_enemies_sheet_56
+    21300114: smw_enemies_sheet_57
+    21300116: smw_enemies_sheet_58
+    21300118: smw_enemies_sheet_59
+    21300120: smw_enemies_sheet_60
+    21300122: smw_enemies_sheet_61
+    21300124: smw_enemies_sheet_62
+    21300126: smw_enemies_sheet_63
+    21300128: smw_enemies_sheet_64
+    21300130: smw_enemies_sheet_65
+    21300132: smw_enemies_sheet_66
+    21300134: smw_enemies_sheet_67
+    21300136: smw_enemies_sheet_68
+    21300138: smw_enemies_sheet_69
+    21300140: smw_enemies_sheet_70
+    21300142: smw_enemies_sheet_71
+    21300144: smw_enemies_sheet_72
+    21300146: smw_enemies_sheet_73
+    21300148: smw_enemies_sheet_74
+    21300150: smw_enemies_sheet_75
+    21300152: smw_enemies_sheet_76
+    21300154: smw_enemies_sheet_77
+    21300156: smw_enemies_sheet_78
+    21300158: smw_enemies_sheet_79
+    21300160: smw_enemies_sheet_80
+    21300162: smw_enemies_sheet_81
+    21300164: smw_enemies_sheet_82
+    21300166: Enemy_Damage
+    21300168: smw_enemies_sheet_84
+    21300170: Blue_Yoshi_run_2
+    21300172: Blue_Yoshi_run_1
+    21300174: smw_enemies_sheet_87
+    21300176: smw_enemies_sheet_88
+    21300178: smw_enemies_sheet_89
+    21300180: smw_enemies_sheet_90
+    21300182: smw_enemies_sheet_91
+    21300184: smw_enemies_sheet_92
+    21300186: smw_enemies_sheet_93
+    21300188: smw_enemies_sheet_94
+    21300190: smw_enemies_sheet_95
+    21300192: smw_enemies_sheet_96
+    21300194: smw_enemies_sheet_97
+    21300196: smw_enemies_sheet_98
+    21300198: smw_enemies_sheet_99
+    21300200: smw_enemies_sheet_100
+    21300202: smw_enemies_sheet_101
+    21300204: smw_enemies_sheet_102
+    21300206: smw_enemies_sheet_103
+    21300208: smw_enemies_sheet_104
+    21300210: smw_enemies_sheet_105
+    21300212: smw_enemies_sheet_106
+    21300214: smw_enemies_sheet_107
+    21300216: smw_enemies_sheet_108
+    21300218: smw_enemies_sheet_109
+    21300220: smw_enemies_sheet_110
+    21300222: smw_enemies_sheet_111
+    21300224: smw_enemies_sheet_112
+    21300226: smw_enemies_sheet_113
+    21300228: smw_enemies_sheet_114
+    21300230: smw_enemies_sheet_115
+    21300232: smw_enemies_sheet_116
+    21300234: smw_enemies_sheet_117
+    21300236: smw_enemies_sheet_118
+    21300238: smw_enemies_sheet_119
+    21300240: smw_enemies_sheet_120
+    21300242: smw_enemies_sheet_121
+    21300244: smw_enemies_sheet_122
+    21300246: smw_enemies_sheet_123
+    21300248: smw_enemies_sheet_124
+    21300250: smw_enemies_sheet_125
+    21300252: smw_enemies_sheet_126
+    21300254: smw_enemies_sheet_127
+    21300256: smw_enemies_sheet_128
+    21300258: smw_enemies_sheet_129
+    21300260: smw_enemies_sheet_130
+    21300262: smw_enemies_sheet_131
+    21300264: smw_enemies_sheet_132
+    21300266: smw_enemies_sheet_133
+    21300268: smw_enemies_sheet_134
+    21300270: smw_enemies_sheet_135
+    21300272: smw_enemies_sheet_136
+    21300274: smw_enemies_sheet_137
+    21300276: smw_enemies_sheet_138
+    21300278: smw_enemies_sheet_139
+    21300280: smw_enemies_sheet_140
+    21300282: smw_enemies_sheet_141
+    21300284: smw_enemies_sheet_142
+    21300286: smw_enemies_sheet_143
+    21300288: smw_enemies_sheet_144
+    21300290: smw_enemies_sheet_145
+    21300292: smw_enemies_sheet_146
+    21300294: smw_enemies_sheet_147
+    21300296: smw_enemies_sheet_148
+    21300298: smw_enemies_sheet_149
+    21300300: smw_enemies_sheet_150
+    21300302: smw_enemies_sheet_151
+    21300304: smw_enemies_sheet_152
+    21300306: smw_enemies_sheet_153
+    21300308: smw_enemies_sheet_154
+    21300310: smw_enemies_sheet_155
+    21300312: smw_enemies_sheet_156
+    21300314: smw_enemies_sheet_157
+    21300316: smw_enemies_sheet_158
+    21300318: smw_enemies_sheet_159
+    21300320: smw_enemies_sheet_160
+    21300322: smw_enemies_sheet_161
+    21300324: smw_enemies_sheet_162
+    21300326: smw_enemies_sheet_163
+    21300328: smw_enemies_sheet_164
+    21300330: smw_enemies_sheet_165
+    21300332: smw_enemies_sheet_166
+    21300334: smw_enemies_sheet_167
+    21300336: smw_enemies_sheet_168
+    21300338: smw_enemies_sheet_169
+    21300340: smw_enemies_sheet_170
+    21300342: smw_enemies_sheet_171
+    21300344: smw_enemies_sheet_172
+    21300346: smw_enemies_sheet_173
+    21300348: smw_enemies_sheet_174
+    21300350: smw_enemies_sheet_175
+    21300352: smw_enemies_sheet_176
+    21300354: smw_enemies_sheet_177
+    21300356: smw_enemies_sheet_178
+    21300358: smw_enemies_sheet_179
+    21300360: smw_enemies_sheet_180
+    21300362: smw_enemies_sheet_181
+    21300364: smw_enemies_sheet_182
+    21300366: smw_enemies_sheet_183
+    21300368: smw_enemies_sheet_184
+    21300370: smw_enemies_sheet_185
+    21300372: smw_enemies_sheet_186
+    21300374: smw_enemies_sheet_187
+    21300376: smw_enemies_sheet_188
+    21300378: smw_enemies_sheet_189
+    21300380: smw_enemies_sheet_190
+    21300382: smw_enemies_sheet_191
+    21300384: smw_enemies_sheet_192
+    21300386: smw_enemies_sheet_193
+    21300388: smw_enemies_sheet_194
+    21300390: smw_enemies_sheet_195
+    21300392: smw_enemies_sheet_196
+    21300394: smw_enemies_sheet_197
+    21300396: smw_enemies_sheet_198
+    21300398: smw_enemies_sheet_199
+    21300400: smw_enemies_sheet_200
+    21300402: smw_enemies_sheet_201
+    21300404: smw_enemies_sheet_202
+    21300406: smw_enemies_sheet_203
+    21300408: smw_enemies_sheet_204
+    21300410: smw_enemies_sheet_205
+    21300412: smw_enemies_sheet_206
+    21300414: smw_enemies_sheet_207
+    21300416: smw_enemies_sheet_208
+    21300418: smw_enemies_sheet_209
+    21300420: smw_enemies_sheet_210
+    21300422: smw_enemies_sheet_211
+    21300424: smw_enemies_sheet_212
+    21300426: smw_enemies_sheet_213
+    21300428: smw_enemies_sheet_214
+    21300430: smw_enemies_sheet_215
+    21300432: smw_enemies_sheet_216
+    21300434: smw_enemies_sheet_217
+    21300436: smw_enemies_sheet_218
+    21300438: smw_enemies_sheet_219
+    21300440: smw_enemies_sheet_220
+    21300442: smw_enemies_sheet_221
+    21300444: smw_enemies_sheet_222
+    21300446: smw_enemies_sheet_223
+    21300448: smw_enemies_sheet_224
+    21300450: smw_enemies_sheet_225
+    21300452: smw_enemies_sheet_226
+    21300454: smw_enemies_sheet_227
+    21300456: smw_enemies_sheet_228
+    21300458: smw_enemies_sheet_229
+    21300460: smw_enemies_sheet_230
+    21300462: smw_enemies_sheet_231
+    21300464: smw_enemies_sheet_232
+    21300466: smw_enemies_sheet_233
+    21300468: smw_enemies_sheet_234
+    21300470: smw_enemies_sheet_235
+    21300472: smw_enemies_sheet_236
+    21300474: smw_enemies_sheet_237
+    21300476: smw_enemies_sheet_238
+    21300478: smw_enemies_sheet_239
+    21300480: smw_enemies_sheet_240
+    21300482: smw_enemies_sheet_241
+    21300484: smw_enemies_sheet_242
+    21300486: smw_enemies_sheet_243
+    21300488: smw_enemies_sheet_244
+    21300490: smw_enemies_sheet_245
+    21300492: smw_enemies_sheet_246
+    21300494: smw_enemies_sheet_247
+    21300496: smw_enemies_sheet_248
+    21300498: smw_enemies_sheet_249
+    21300500: smw_enemies_sheet_250
+    21300502: smw_enemies_sheet_251
+    21300504: smw_enemies_sheet_252
+    21300506: smw_enemies_sheet_253
+    21300508: smw_enemies_sheet_254
+    21300510: smw_enemies_sheet_255
+    21300512: smw_enemies_sheet_256
+    21300514: smw_enemies_sheet_257
+    21300516: smw_enemies_sheet_258
+    21300518: smw_enemies_sheet_259
+    21300520: smw_enemies_sheet_260
+    21300522: smw_enemies_sheet_261
+    21300524: smw_enemies_sheet_262
+    21300526: smw_enemies_sheet_263
+    21300528: smw_enemies_sheet_264
+    21300530: smw_enemies_sheet_265
+    21300532: smw_enemies_sheet_266
+    21300534: smw_enemies_sheet_267
+    21300536: smw_enemies_sheet_268
+    21300538: smw_enemies_sheet_269
+    21300540: smw_enemies_sheet_270
+    21300542: smw_enemies_sheet_271
+    21300544: smw_enemies_sheet_272
+    21300546: smw_enemies_sheet_273
+    21300548: smw_enemies_sheet_274
+    21300550: smw_enemies_sheet_275
+    21300552: smw_enemies_sheet_276
+    21300554: smw_enemies_sheet_277
+    21300556: smw_enemies_sheet_278
+    21300558: smw_enemies_sheet_279
+    21300560: smw_enemies_sheet_280
+    21300562: smw_enemies_sheet_281
+    21300564: smw_enemies_sheet_282
+    21300566: smw_enemies_sheet_283
+    21300568: smw_enemies_sheet_284
+    21300570: smw_enemies_sheet_285
+    21300572: smw_enemies_sheet_286
+    21300574: smw_enemies_sheet_287
+    21300576: smw_enemies_sheet_288
+    21300578: smw_enemies_sheet_289
+    21300580: smw_enemies_sheet_290
+    21300582: smw_enemies_sheet_291
+    21300584: smw_enemies_sheet_292
+    21300586: smw_enemies_sheet_293
+    21300588: smw_enemies_sheet_294
+    21300590: smw_enemies_sheet_295
+    21300592: smw_enemies_sheet_296
+    21300594: smw_enemies_sheet_297
+    21300596: smw_enemies_sheet_298
+    21300598: smw_enemies_sheet_299
+    21300600: smw_enemies_sheet_300
+    21300602: smw_enemies_sheet_301
+    21300604: smw_enemies_sheet_302
+    21300606: smw_enemies_sheet_303
+    21300608: smw_enemies_sheet_304
+    21300610: smw_enemies_sheet_305
+    21300612: smw_enemies_sheet_306
+    21300614: smw_enemies_sheet_307
+    21300616: smw_enemies_sheet_308
+    21300618: smw_enemies_sheet_309
+    21300620: smw_enemies_sheet_310
+    21300622: smw_enemies_sheet_311
+    21300624: smw_enemies_sheet_312
+    21300626: smw_enemies_sheet_313
+    21300628: smw_enemies_sheet_314
+    21300630: smw_enemies_sheet_315
+    21300632: smw_enemies_sheet_316
+    21300634: Big_Connon
+    21300636: smw_enemies_sheet_318
+    21300638: smw_enemies_sheet_319
+    21300640: smw_enemies_sheet_320
+    21300642: smw_enemies_sheet_321
+    21300644: smw_enemies_sheet_322
+    21300646: smw_enemies_sheet_323
+    21300648: smw_enemies_sheet_324
+    21300650: smw_enemies_sheet_325
+    21300652: smw_enemies_sheet_326
+    21300654: smw_enemies_sheet_327
+    21300656: smw_enemies_sheet_328
+    21300658: smw_enemies_sheet_329
+    21300660: smw_enemies_sheet_330
+    21300662: smw_enemies_sheet_331
+    21300664: smw_enemies_sheet_332
+    21300666: smw_enemies_sheet_333
+    21300668: smw_enemies_sheet_334
+    21300670: smw_enemies_sheet_335
+    21300672: smw_enemies_sheet_336
+    21300674: smw_enemies_sheet_337
+    21300676: smw_enemies_sheet_338
+    21300678: smw_enemies_sheet_339
+    21300680: smw_enemies_sheet_340
+    21300682: smw_enemies_sheet_341
+    21300684: smw_enemies_sheet_342
+    21300686: smw_enemies_sheet_343
+    21300688: smw_enemies_sheet_344
+    21300690: smw_enemies_sheet_345
+    21300692: smw_enemies_sheet_346
+    21300694: smw_enemies_sheet_347
+    21300696: smw_enemies_sheet_348
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smw_enemies_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1321
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1326
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1321
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1280
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1280
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1280
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1280
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1280
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1280
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1288
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1288
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1286
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1247
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1247
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Baby_Turtle
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1126
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1120
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1126
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1120
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1087
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1087
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1086
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1054
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1084
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1046
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1050
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1046
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1047
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1050
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1048
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1052
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1007
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1006
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1010
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy_Damage
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1007
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1006
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Yoshi_run_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 998
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Yoshi_run_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 998
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 998
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 998
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1007
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 998
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 967
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 966
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 967
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 958
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 958
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 967
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 958
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 922
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 922
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 926
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 926
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 926
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 918
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 920
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 919
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 926
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 927
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 875
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 875
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 896
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 897
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 886
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 886
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 887
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 887
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 897
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 887
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 878
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 874
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 877
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 875
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 837
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 773
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 764
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 847
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 847
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 844
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 796
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 806
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 806
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 807
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 808
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 807
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 807
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 820
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 804
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 800
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 756
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 760
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 760
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 760
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 759
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 759
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 759
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 758
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 764
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 719
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 718
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 719
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 746
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 737
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 719
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 726
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 726
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 728
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 734
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 724
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 723
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 728
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 730
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 725
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 687
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 690
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 690
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 679
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 696
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 686
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 686
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 685
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 682
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 683
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 646
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 646
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 646
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 602
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 602
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 610
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 610
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 638
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 638
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 638
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 606
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 607
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 607
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 606
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 597
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 597
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 566
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 566
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 566
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 570
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 563
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 562
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 541
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 541
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 526
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_221
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 526
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_222
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_223
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_224
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_225
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 529
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_226
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 515
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_227
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_228
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_229
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_230
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 477
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_231
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 477
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_232
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 482
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_233
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 481
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_234
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 482
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_235
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 482
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_236
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 486
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_237
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 485
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_238
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 486
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_239
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 446
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_240
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 445
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_241
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 446
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_242
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 446
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_243
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_244
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_245
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 446
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_246
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 446
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_247
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_248
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_249
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_250
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 399
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_251
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_252
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 406
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_253
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 409
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_254
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 406
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_255
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 409
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_256
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 406
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_257
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 409
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_258
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 406
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_259
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 370
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_260
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 367
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_261
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 398
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_262
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 408
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_263
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_264
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_265
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 366
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_266
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 366
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_267
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 366
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_268
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 366
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_269
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 366
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_271
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_272
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 369
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_273
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_274
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 322
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_275
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_276
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_277
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 322
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_278
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_279
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_280
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 320
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_281
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_282
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 318
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_283
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 316
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_284
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_285
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 276
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_286
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_287
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 276
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_288
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 278
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_289
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 276
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_290
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_291
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 238
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_292
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_293
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 236
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_294
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 229
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_295
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 238
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_296
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 238
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_297
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 238
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_298
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 230
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_299
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_300
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 242
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_301
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 242
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_302
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 240
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_303
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_304
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_305
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_306
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_307
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 206
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_308
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 206
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_309
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 206
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_310
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_311
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_312
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_313
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_314
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_315
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_316
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Connon
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 122
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_318
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 122
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_319
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 167
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_320
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 167
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_321
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_322
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_323
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 126
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_324
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 167
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_325
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 129
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_326
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 130
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_327
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_328
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 129
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_329
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_330
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 32
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_331
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 33
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_332
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_333
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_334
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 83
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_335
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_336
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 42
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_337
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 42
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_338
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_339
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_340
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_341
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_342
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_343
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_344
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_345
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_346
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_347
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smw_enemies_sheet_348
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

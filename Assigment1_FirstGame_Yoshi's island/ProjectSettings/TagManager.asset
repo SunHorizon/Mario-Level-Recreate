@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Filpper
+  - Mario_Enter
+  - Mario_Exit
+  - Collectible
+  - Connon_Start
+  - Connon_End
+  - Connon_Destroy
+  - Yoshi
+  - PowerUp_Jump
+  - PowerUp_Projectile
+  - Projectile
+  - Finished
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Head
+  - Yoshi
+  - Connon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
